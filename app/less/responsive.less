@@ -1,0 +1,49 @@
+// Core variables and mixins
+@import "bootstrap/variables.less";
+
+@import "require/variables.less";
+@import "require/elements.less";
+@import "require/functions.less";
+
+@import "bootstrap/mixins.less";
+
+/* lg */ 
+@media (min-width: @screen-lg) {
+
+}
+
+
+/* md */
+@media (min-width: @screen-md) and (max-width: @screen-lg-min) {
+
+}
+
+/* md & lg */
+@media (min-width: @screen-md)  {
+}
+
+/* sm */
+@media (min-width: @screen-sm) and (max-width: @screen-md-min) {
+   
+}
+
+/* minimum sm */
+@media (min-width: @screen-sm)  {
+}
+
+/* xs */
+@media (max-width: @screen-sm-min) {
+}
+
+/* XS Portrait */
+@media (max-width: @screen-xs) {
+
+}
+
+@media print {
+	#header,#footer,
+	a[href]:after {
+		display: none !important;
+	}
+
+}

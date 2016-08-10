@@ -1,0 +1,20 @@
+{
+	"config": {
+		"vendor-dir": "Vendor",
+		"minimum-stability" : "dev"
+	},
+	"require": {
+		"josegonzalez/cakephp-upload": "*",
+		"markstory/acl_extras": "dev-master",
+		"slywalker/boost_cake": "*",
+		"josegonzalez/cakephp-wysiwyg": "dev-master",
+		"bradcrumb/LessCompiler": "*"
+	},
+	"require-dev": {
+	},
+  	"extra": {
+        "installer-paths": {
+            "Plugin/LessCompiler": ["bradcrumb/LessCompiler"]
+        }
+    }
+}

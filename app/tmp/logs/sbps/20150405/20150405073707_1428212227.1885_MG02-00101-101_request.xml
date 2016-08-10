@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<sps-api-request id="MG02-00101-101">
+<merchant_id>68442</merchant_id>
+<service_id>001</service_id>
+<cust_code>5</cust_code>
+<sps_cust_info_return_flg>1</sps_cust_info_return_flg>
+<pay_method_info>
+<cc_number>ZMy1TXx6k74WsULNzuHj9Q==</cc_number>
+<cc_expiration>U/2U+Wi+eSQ=</cc_expiration>
+</pay_method_info>
+<encrypted_flg>1</encrypted_flg>
+<request_date>20150405073707</request_date>
+<limit_second>120</limit_second>
+<sps_hashcode>2f1176858573a1fe313dd5ae3fbed118a1185cd6</sps_hashcode>
+
+</sps-api-request>

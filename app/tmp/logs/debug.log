@@ -1,0 +1,450 @@
+2015-04-05 06:28:03 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 06:28:03 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => 'SBPS_MERCHANT_ID',
+	'service_id' => 'SBPS_SERVICE_ID',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405062803',
+	'item_id' => 'A0012803',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhostURL_ADMIN_PREFIX/test-payment',
+	'cancel_url' => 'http://localhostURL_ADMIN_PREFIX/test-payment',
+	'error_url' => 'http://localhostURL_ADMIN_PREFIX/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405062803',
+	'limit_second' => '600',
+	'sps_hashcode' => 'bac1cefad6c0a5651230a6d7da919fafef6fb135'
+)
+2015-04-05 06:31:25 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 06:31:25 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405063125',
+	'item_id' => 'A0013125',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhostURL_ADMIN_PREFIX/test-payment',
+	'cancel_url' => 'http://localhostURL_ADMIN_PREFIX/test-payment',
+	'error_url' => 'http://localhostURL_ADMIN_PREFIX/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405063125',
+	'limit_second' => '600',
+	'sps_hashcode' => 'bf03bfcb75058fbbc720a543e9083723475b72ac'
+)
+2015-04-05 06:34:51 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 06:34:51 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405063451',
+	'item_id' => 'A0013451',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhostbackoffice/adminTestPayment/test-payment',
+	'cancel_url' => 'http://localhostbackoffice/adminTestPayment/test-payment',
+	'error_url' => 'http://localhostbackoffice/adminTestPayment/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405063451',
+	'limit_second' => '600',
+	'sps_hashcode' => '496a421492369fec8b6dc7a87fcb82ffc4f89b40'
+)
+2015-04-05 06:35:28 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 06:35:28 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405063528',
+	'item_id' => 'A0013528',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhostbackoffice/adminTestPayment/test-payment',
+	'cancel_url' => 'http://localhostbackoffice/adminTestPayment/test-payment',
+	'error_url' => 'http://localhostbackoffice/adminTestPayment/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405063528',
+	'limit_second' => '600',
+	'sps_hashcode' => '9b837f57ac0c83fdecb85326593590fd157e0d56'
+)
+2015-04-05 06:36:06 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 06:36:06 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405063606',
+	'item_id' => 'A0013606',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'cancel_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'error_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405063606',
+	'limit_second' => '600',
+	'sps_hashcode' => '0956fea1198cd287c066701e1a8864dc4f162e52'
+)
+2015-04-05 06:37:31 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 46
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 06:37:31 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405063731',
+	'item_id' => 'A0013731',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'cancel_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'error_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405063731',
+	'limit_second' => '600',
+	'sps_hashcode' => '888f5abf4f602a94216ff2096b9306010b59ab65'
+)
+2015-04-05 06:39:37 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 45
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 06:39:37 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 46
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405063937',
+	'item_id' => 'A0013937',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'cancel_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'error_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405063937',
+	'limit_second' => '600',
+	'sps_hashcode' => 'af04bd395fa346040b8b54f280face2c4d09b0bf'
+)
+2015-04-05 06:43:10 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 45
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 06:43:10 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 46
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405064310',
+	'item_id' => 'A0014310',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'cancel_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'error_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405064310',
+	'limit_second' => '600',
+	'sps_hashcode' => '4c46e99210033c92b67146e6b78917ee16a79dfe'
+)
+2015-04-05 07:15:24 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 45
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 07:15:24 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 46
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405071524',
+	'item_id' => 'A0011524',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'cancel_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'error_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405071524',
+	'limit_second' => '600',
+	'sps_hashcode' => 'eb51ed790e9dc177aab8f647f039e99c2357a185'
+)
+2015-04-05 07:39:53 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 59
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array()
+2015-04-05 07:39:53 Debug: 
+AdminTestPaymentController::backoffice_index() - APP\Controller\AdminTestPaymentController.php, line 60
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+array(
+	'pay_method' => 'credit',
+	'merchant_id' => '68442',
+	'service_id' => '001',
+	'cust_code' => '110',
+	'order_id' => 'TEST20150405073953',
+	'item_id' => 'A0013953',
+	'pay_item_id' => '',
+	'item_name' => 'アイテム',
+	'tax' => '0',
+	'amount' => '10000',
+	'pay_type' => '0',
+	'auto_charge_type' => '',
+	'service_type' => '0',
+	'div_settele' => '',
+	'last_charge_month' => '',
+	'camp_type' => '',
+	'terminal_type' => '0',
+	'success_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'cancel_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'error_url' => 'http://localhost/backoffice/adminTestPayment/test-payment',
+	'pagecon_url' => 'https://localhost/CgiBuyingResults',
+	'free1' => '東京都',
+	'free2' => '神保町',
+	'free3' => '1丁目',
+	'free_csv' => '',
+	'request_date' => '20150405073953',
+	'limit_second' => '600',
+	'sps_hashcode' => 'afc1f23b8a86159766f5c684f17a88abe31466c8'
+)

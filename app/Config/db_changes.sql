@@ -1,0 +1,1 @@
+ALTER TABLE `abuses` ADD `is_del` TINYINT(1) NULL DEFAULT NULL AFTER `comment`;

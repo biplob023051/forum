@@ -1,0 +1,45 @@
+.text-shadow (@string: 0 1px 3px rgba(0, 0, 0, 0.25)) {
+  text-shadow: @string;
+}
+
+.animation (@name, @duration: 300ms, @delay: 0, @ease: ease) {
+  -webkit-animation: @name @duration @delay @ease;
+  -moz-animation:    @name @duration @delay @ease;
+  -ms-animation:     @name @duration @delay @ease;
+}
+
+.perspective (@value: 1000) {
+  -webkit-perspective:  @value;
+  -moz-perspective:   @value;
+  -ms-perspective:  @value;
+  perspective:    @value;
+}
+.transform-origin (@x:center, @y:center) {
+  -webkit-transform-origin: @x @y;
+  -moz-transform-origin:    @x @y;
+  -ms-transform-origin:     @x @y;
+  -o-transform-origin:      @x @y;
+}
+
+.product-label(){
+  border-top-left-radius:0px;
+  border-bottom-right-radius:0px;
+  &.label-new, 
+  &.label-sold, 
+  &.label-coming {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: @brand-danger;
+    color: @body-bg;
+    font-size: 14px;
+    text-transform: lowercase;
+    font-style: italic;
+  } 
+  &.label-new {
+    background: @brand-success;
+  } 
+  &.label-coming {
+    background: @brand-warning;
+  }
+}

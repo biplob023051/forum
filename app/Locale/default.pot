@@ -1,0 +1,3575 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-04-12 13:03+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AdminsController.php:32
+#: Controller/GroupUsersController.php:30
+#: Controller/IntroducersController.php:222
+#: Controller/MerchantsController.php:30
+#: View/Admins/backoffice_change_password.ctp:2
+msgid "MY_PROFILE"
+msgstr ""
+
+#: Controller/AdminsController.php:60
+msgid "ADMIN_LOGIN"
+msgstr ""
+
+#: Controller/AdminsController.php:101
+#: Controller/GroupUsersController.php:99
+#: Controller/IntroducersController.php:291
+#: Controller/MerchantsController.php:99
+#: View/Admins/backoffice_profile.ctp:54
+#: View/GroupUsers/group_profile.ctp:84
+#: View/Introducers/introducer_profile.ctp:84
+#: View/Merchants/shop_profile.ctp:84
+#: View/Shops/shop_profile.ctp:51
+msgid "EDIT_PROFILE"
+msgstr ""
+
+#: Controller/AdminsController.php:119
+#: Controller/GroupUsersController.php:119
+#: Controller/IntroducersController.php:311
+#: Controller/MerchantsController.php:119
+msgid "PROFILE_UPDATE_SUCCESS"
+msgstr ""
+
+#: Controller/AdminsController.php:136;170;271
+#: Controller/MerchantsController.php:583
+msgid "ADMIN_NOT_FOUND"
+msgstr ""
+
+#: Controller/AdminsController.php:146
+#: Controller/GroupUsersController.php:147
+#: Controller/IntroducersController.php:339
+#: Controller/MerchantsController.php:147
+#: View/Admins/backoffice_profile.ctp:22
+#: View/GroupUsers/group_profile.ctp:22
+#: View/Introducers/introducer_profile.ctp:22
+#: View/Merchants/shop_profile.ctp:22
+msgid "CHANGE_PASSWORD"
+msgstr ""
+
+#: Controller/AdminsController.php:161;452
+#: Controller/GroupUsersController.php:163;290
+#: Controller/IntroducersController.php:355;481
+#: Controller/MerchantsController.php:163;465
+msgid "PASSWORD_UPDATE_SUCCESS"
+msgstr ""
+
+#: Controller/AdminsController.php:164;456
+#: Controller/GroupUsersController.php:166;294
+#: Controller/IntroducersController.php:358;485
+#: Controller/MerchantsController.php:166;469
+msgid "PASSWORD_UPDATE_FAIL"
+msgstr ""
+
+#: Controller/AdminsController.php:179
+#: Controller/GroupUsersController.php:307
+#: Controller/MerchantsController.php:482
+msgid "ADMINS_LIST"
+msgstr ""
+
+#: Controller/AdminsController.php:208
+#: Controller/MerchantsController.php:513
+#: View/Admins/backoffice_index.ctp:5
+#: View/Admins/backoffice_insert.ctp:5
+#: View/Introducers/introducer_index.ctp:5
+#: View/Merchants/shop_index.ctp:5
+msgid "NEW_ADMIN"
+msgstr ""
+
+#: Controller/AdminsController.php:210
+#: Controller/MerchantsController.php:515
+msgid "EDIT_ADMIN"
+msgstr ""
+
+#: Controller/AdminsController.php:240
+#: Controller/MerchantsController.php:552
+msgid "ADMIN_REGISTRATION_MAIL_SUBJECT"
+msgstr ""
+
+#: Controller/AdminsController.php:248
+#: Controller/MerchantsController.php:560
+msgid "ADMIN_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/AdminsController.php:255
+#: Controller/MerchantsController.php:567
+msgid "ADMIN_SAVE_FAILED"
+msgstr ""
+
+#: Controller/AdminsController.php:298
+#: Controller/MerchantsController.php:610
+msgid "ADMIN_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/AdminsController.php:329
+#: Controller/MerchantsController.php:641
+msgid "ADMIN_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/AdminsController.php:372;375
+#: Controller/GroupUsersController.php:209;212
+#: Controller/IntroducersController.php:401;404
+#: Controller/MerchantsController.php:209;212
+msgid "ACTIVATION_CODE_EXPIRED"
+msgstr ""
+
+#: Controller/AdminsController.php:384
+#: Controller/GroupUsersController.php:222
+#: Controller/IntroducersController.php:413
+#: Controller/MerchantsController.php:397
+msgid "FORGOT_PASSWORD"
+msgstr ""
+
+#: Controller/AdminsController.php:407
+msgid "ADMIN_FORGOT_PASSWORD_SUBJECT"
+msgstr ""
+
+#: Controller/AdminsController.php:414
+#: Controller/GroupUsersController.php:252
+#: Controller/IntroducersController.php:443
+#: Controller/MerchantsController.php:427
+msgid "PASSWORD_REMINDER_EMAIL_SUCCESS"
+msgstr ""
+
+#: Controller/AdminsController.php:417
+#: Controller/MerchantsController.php:137;172;430
+msgid "MERCHANT_NOT_FOUND"
+msgstr ""
+
+#: Controller/AdminsController.php:427
+#: Controller/GroupUsersController.php:265
+#: Controller/IntroducersController.php:456
+#: Controller/MerchantsController.php:440
+#: View/Admins/backoffice_forgot_password.ctp:18
+#: View/GroupUsers/group_forgot_password.ctp:18
+#: View/Introducers/introducer_forgot_password.ctp:18
+#: View/Merchants/shop_forgot_password.ctp:18
+msgid "RESET_PASSWORD"
+msgstr ""
+
+#: Controller/AdminsController.php:440
+#: Controller/GroupUsersController.php:278
+#: Controller/IntroducersController.php:469
+#: Controller/MerchantsController.php:453
+msgid "PASSWORD_RESET_LINK_EXPIRED"
+msgstr ""
+
+#: Controller/AdminsController.php:549
+msgid "ARO_BUILD_SUCCESS"
+msgstr ""
+
+#: Controller/AdminsController.php:645
+msgid "SET_ACL_SUCCESS"
+msgstr ""
+
+#: Controller/AgreementsController.php:19
+msgid "AGREEMENTS_LIST"
+msgstr ""
+
+#: Controller/AgreementsController.php:42
+#: View/Agreements/backoffice_index.ctp:5
+#: View/Agreements/backoffice_insert.ctp:5
+msgid "NEW_AGREEMENT"
+msgstr ""
+
+#: Controller/AgreementsController.php:44
+msgid "EDIT_AGREEMENT"
+msgstr ""
+
+#: Controller/AgreementsController.php:55
+msgid "AGREEMENT_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/AgreementsController.php:62
+msgid "AGREEMENT_SAVE_FAILED"
+msgstr ""
+
+#: Controller/AgreementsController.php:76
+msgid "AGREEMENT_NOT_FOUND"
+msgstr ""
+
+#: Controller/AgreementsController.php:100
+msgid "AGREEMENT_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/AgreementsController.php:128
+msgid "AGREEMENT_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/AppController.php:97
+msgid "LOGIN_ID_PASSWORD_MISMATCH"
+msgstr ""
+
+#: Controller/AppController.php:98
+msgid "NO_AUTHORIZATION"
+msgstr ""
+
+#: Controller/CategoriesController.php:31
+msgid "CATEGORIES_LIST"
+msgstr ""
+
+#: Controller/CategoriesController.php:54;110
+#: Controller/SubCategoriesController.php:67;123
+msgid "GENERE_NOT_FOUND"
+msgstr ""
+
+#: Controller/CategoriesController.php:65
+#: View/Categories/backoffice_csvupload.ctp:5
+#: View/Categories/backoffice_index.ctp:5
+#: View/Categories/backoffice_insert.ctp:5
+msgid "NEW_CATEGORY"
+msgstr ""
+
+#: Controller/CategoriesController.php:67
+msgid "EDIT_CATEGORY"
+msgstr ""
+
+#: Controller/CategoriesController.php:73
+msgid "CATEGORY_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/CategoriesController.php:80
+msgid "CATEGORY_SAVE_FAILED"
+msgstr ""
+
+#: Controller/CategoriesController.php:94
+#: Controller/SubCategoriesController.php:63;139
+msgid "CATEGORY_NOT_FOUND"
+msgstr ""
+
+#: Controller/CategoriesController.php:138
+#: Controller/GenresController.php:109
+#: Controller/SubCategoriesController.php:167
+msgid "GENRE_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/CategoriesController.php:169
+#: Controller/GenresController.php:140
+#: Controller/SubCategoriesController.php:198
+msgid "GENRE_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/CategoriesController.php:197;200;226;229
+#: Controller/GenresController.php:168;171;197;200
+#: Controller/SubCategoriesController.php:226;229;255;258
+msgid "GENRE_POSITION_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/CategoriesController.php:243
+#: Controller/GenresController.php:214
+#: Controller/IntroducersController.php:184
+#: Controller/MakersController.php:146
+#: Controller/SalesPeopleController.php:150
+#: Controller/SubCategoriesController.php:272
+msgid "UPLOAD_CSV_FILE"
+msgstr ""
+
+#: Controller/CategoriesController.php:264
+#: Controller/GenresController.php:233
+#: Controller/IntroducersController.php:203
+#: Controller/MakersController.php:165
+#: Controller/SalesPeopleController.php:169
+#: Controller/SubCategoriesController.php:291
+msgid "CSV_IMPORT_SUCCESS"
+msgstr ""
+
+#: Controller/CategoriesController.php:271
+#: Controller/GenresController.php:240
+#: Controller/IntroducersController.php:210
+#: Controller/MakersController.php:172
+#: Controller/SalesPeopleController.php:176
+#: Controller/SubCategoriesController.php:298
+msgid "CSV_IMPORT_FAILED"
+msgstr ""
+
+#: Controller/FormFieldsController.php:23
+msgid "FORM_FIELDS_LIST"
+msgstr ""
+
+#: Controller/FormFieldsController.php:56
+#: View/FormFields/backoffice_index.ctp:5
+#: View/FormFields/backoffice_insert.ctp:5
+msgid "NEW_FORM_FIELD"
+msgstr ""
+
+#: Controller/FormFieldsController.php:58
+msgid "EDIT_FORM_FIELD"
+msgstr ""
+
+#: Controller/FormFieldsController.php:72
+msgid "FORM_FIELD_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/FormFieldsController.php:79
+msgid "FORM_FIELD_SAVE_FAILED"
+msgstr ""
+
+#: Controller/FormFieldsController.php:94
+#: Controller/MerchantsController.php:323;751
+msgid "USER_NOT_FOUND"
+msgstr ""
+
+#: Controller/FormFieldsController.php:121
+#: Controller/MerchantsController.php:350;784
+msgid "USER_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/FormFieldsController.php:152
+#: Controller/MerchantsController.php:381;815
+msgid "USER_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/GenresController.php:23
+#: View/Genres/backoffice_csvupload.ctp:4
+#: View/Genres/backoffice_index.ctp:4
+#: View/Genres/backoffice_insert.ctp:4
+msgid "GENRE_LIST"
+msgstr ""
+
+#: Controller/GenresController.php:52
+#: View/Genres/backoffice_csvupload.ctp:5
+#: View/Genres/backoffice_index.ctp:5
+#: View/Genres/backoffice_insert.ctp:5
+msgid "NEW_GENRE"
+msgstr ""
+
+#: Controller/GenresController.php:54
+msgid "EDIT_GENRE"
+msgstr ""
+
+#: Controller/GenresController.php:61
+msgid "GENRE_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/GenresController.php:68
+msgid "GENRE_SAVE_FAILED"
+msgstr ""
+
+#: Controller/GenresController.php:82
+msgid "GENRE_NOT_FOUND"
+msgstr ""
+
+#: Controller/GroupUsersController.php:58
+msgid "GROUP_USER_LOGIN"
+msgstr ""
+
+#: Controller/GroupUsersController.php:137;172;255
+msgid "GroupUser_NOT_FOUND"
+msgstr ""
+
+#: Controller/GroupUsersController.php:245
+msgid "GroupUser_FORGOT_PASSWORD_SUBJECT"
+msgstr ""
+
+#: Controller/GroupsController.php:22
+msgid "GROUPS_LIST"
+msgstr ""
+
+#: Controller/GroupsController.php:53
+#: View/Groups/backoffice_index.ctp:5
+#: View/Groups/backoffice_insert.ctp:5
+msgid "NEW_GROUP"
+msgstr ""
+
+#: Controller/GroupsController.php:55
+msgid "EDIT_GROUP"
+msgstr ""
+
+#: Controller/GroupsController.php:91
+msgid "GROUP_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/GroupsController.php:98
+msgid "GROUP_SAVE_FAILED"
+msgstr ""
+
+#: Controller/GroupsController.php:112
+msgid "GROUP_NOT_FOUND"
+msgstr ""
+
+#: Controller/GroupsController.php:162
+msgid "GROUP_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/GroupsController.php:193
+msgid "GROUP_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/IntroducersController.php:27
+#: View/Introducers/backoffice_csvupload.ctp:4
+#: View/Introducers/backoffice_index.ctp:4
+#: View/Introducers/backoffice_insert.ctp:4
+msgid "INTRODUCER_LIST"
+msgstr ""
+
+#: Controller/IntroducersController.php:53
+#: View/Introducers/backoffice_csvupload.ctp:5
+#: View/Introducers/backoffice_index.ctp:5
+#: View/Introducers/backoffice_insert.ctp:5
+msgid "NEW_INTRODUCER"
+msgstr ""
+
+#: Controller/IntroducersController.php:55
+msgid "EDIT_INTRODUCER"
+msgstr ""
+
+#: Controller/IntroducersController.php:82
+msgid "INTRODUCER_REGISTRATION_MAIL_SUBJECT"
+msgstr ""
+
+#: Controller/IntroducersController.php:90
+msgid "INTRODUCER_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/IntroducersController.php:97
+msgid "INTRODUCER_SAVE_FAILED"
+msgstr ""
+
+#: Controller/IntroducersController.php:111;329;364;446
+msgid "INTRODUCER_NOT_FOUND"
+msgstr ""
+
+#: Controller/IntroducersController.php:138
+msgid "INTRODUCER_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/IntroducersController.php:169
+msgid "INTRODUCER_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/IntroducersController.php:250
+msgid "INTRODUCER_LOGIN"
+msgstr ""
+
+#: Controller/IntroducersController.php:436
+msgid "INTRODUCER_FORGOT_PASSWORD_SUBJECT"
+msgstr ""
+
+#: Controller/MakersController.php:19
+msgid "MAKERS_LIST"
+msgstr ""
+
+#: Controller/MakersController.php:43
+#: View/Makers/backoffice_csvupload.ctp:5
+#: View/Makers/backoffice_index.ctp:5
+#: View/Makers/backoffice_insert.ctp:5
+msgid "NEW_MAKER"
+msgstr ""
+
+#: Controller/MakersController.php:45
+msgid "EDIT_MAKER"
+msgstr ""
+
+#: Controller/MakersController.php:58
+msgid "MAKER_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/MakersController.php:65
+msgid "MAKER_SAVE_FAILED"
+msgstr ""
+
+#: Controller/MakersController.php:79
+msgid "MAKER_NOT_FOUND"
+msgstr ""
+
+#: Controller/MakersController.php:103
+msgid "MAKER_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/MakersController.php:131
+msgid "MAKER_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/MerchantsController.php:58
+msgid "MERCHANT_LOGIN"
+msgstr ""
+
+#: Controller/MerchantsController.php:231;667
+msgid "MERCHANTS_LIST"
+msgstr ""
+
+#: Controller/MerchantsController.php:257;693
+#: View/Merchants/backoffice_index.ctp:5
+#: View/Merchants/backoffice_insert.ctp:5
+#: View/Merchants/group_index.ctp:5
+#: View/Merchants/group_insert.ctp:5
+msgid "NEW_MERCHANT"
+msgstr ""
+
+#: Controller/MerchantsController.php:259;695
+msgid "EDIT_MERCHANT"
+msgstr ""
+
+#: Controller/MerchantsController.php:292;720
+#: Controller/ShopsController.php:120;462
+msgid "MERCHANT_REGISTRATION_MAIL_SUBJECT"
+msgstr ""
+
+#: Controller/MerchantsController.php:300;728
+msgid "MERCHANT_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/MerchantsController.php:307;735
+msgid "MERCHANT_SAVE_FAILED"
+msgstr ""
+
+#: Controller/MerchantsController.php:420
+msgid "MERCHANT_FORGOT_PASSWORD_SUBJECT"
+msgstr ""
+
+#: Controller/PaymentsController.php:7
+msgid "PAYMENT"
+msgstr ""
+
+#: Controller/PlansController.php:27;467
+msgid "OPTION_PLANS_LIST"
+msgstr ""
+
+#: Controller/PlansController.php:30;412;470
+msgid "PLANS_LIST"
+msgstr ""
+
+#: Controller/PlansController.php:73
+#: View/Plans/backoffice_index.ctp:9
+#: View/Plans/backoffice_insert.ctp:9
+msgid "NEW_PLAN"
+msgstr ""
+
+#: Controller/PlansController.php:75
+#: View/Plans/backoffice_index.ctp:6
+#: View/Plans/backoffice_insert.ctp:6
+msgid "NEW_OPTION_PLAN"
+msgstr ""
+
+#: Controller/PlansController.php:77
+msgid "EDIT_OPTION_PLAN"
+msgstr ""
+
+#: Controller/PlansController.php:79
+msgid "EDIT_PLAN"
+msgstr ""
+
+#: Controller/PlansController.php:132;170
+msgid "PLAN_NOT_FOUND"
+msgstr ""
+
+#: Controller/PlansController.php:148
+msgid "PLAN_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/PlansController.php:155
+msgid "PLAN_SAVE_FAILED"
+msgstr ""
+
+#: Controller/PlansController.php:194
+msgid "PLAN_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/PlansController.php:222
+msgid "PLAN_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/PlansController.php:250;253;279;282
+msgid "PLAN_POSITION_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/SalesPeopleController.php:22
+#: View/SalesPeople/backoffice_csvupload.ctp:4
+#: View/SalesPeople/backoffice_index.ctp:4
+#: View/SalesPeople/backoffice_insert.ctp:4
+msgid "SALES_PERSON_LIST"
+msgstr ""
+
+#: Controller/SalesPeopleController.php:48
+#: View/SalesPeople/backoffice_csvupload.ctp:5
+#: View/SalesPeople/backoffice_index.ctp:5
+#: View/SalesPeople/backoffice_insert.ctp:5
+msgid "NEW_SALES_PERSON"
+msgstr ""
+
+#: Controller/SalesPeopleController.php:50
+msgid "EDIT_SALES_PERSON"
+msgstr ""
+
+#: Controller/SalesPeopleController.php:56
+msgid "SALES_PERSON_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/SalesPeopleController.php:63
+msgid "SALES_PERSON_SAVE_FAILED"
+msgstr ""
+
+#: Controller/SalesPeopleController.php:77
+msgid "SALES_PERSON_NOT_FOUND"
+msgstr ""
+
+#: Controller/SalesPeopleController.php:104
+msgid "SALES_PERSON_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/SalesPeopleController.php:135
+msgid "SALES_PERSON_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/GroupFormsController.php:19;111
+msgid "ORDER_FIELDS"
+msgstr ""
+
+#: Controller/GroupFormsController.php:97;103;203;209
+msgid "SHOP_FORM_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/ShopsController.php:22;344
+msgid "SHOPS_LIST"
+msgstr ""
+
+#: Controller/ShopsController.php:79;151;281;393;493
+#: Controller/UsersController.php:421
+msgid "SHOP_NOT_FOUND"
+msgstr ""
+
+#: Controller/ShopsController.php:94;433
+#: View/Shops/backoffice_index.ctp:6
+#: View/Shops/backoffice_insert.ctp:8
+#: View/Shops/backoffice_view.ctp:5
+#: View/Shops/group_index.ctp:5
+#: View/Shops/group_insert.ctp:5
+#: View/Shops/group_view.ctp:5
+msgid "NEW_SHOP"
+msgstr ""
+
+#: Controller/ShopsController.php:96;243;435
+#: View/Shops/backoffice_view.ctp:88
+#: View/Shops/group_view.ctp:84
+msgid "EDIT_SHOP"
+msgstr ""
+
+#: Controller/ShopsController.php:128;259;470
+msgid "SHOP_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/ShopsController.php:136;266;478
+msgid "SHOP_SAVE_FAILED"
+msgstr ""
+
+#: Controller/ShopsController.php:193;522
+msgid "SHOP_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/ShopsController.php:224;553
+msgid "SHOP_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Controller/ShopsController.php:291
+#: View/Elements/navbar/mainmenu.ctp:49
+msgid "SHOP_PROFILE"
+msgstr ""
+
+#: Controller/ShopsController.php:323;411
+msgid "SHOP_DETAILS"
+msgstr ""
+
+#: Controller/SubCategoriesController.php:40
+#: View/SubCategories/backoffice_csvupload.ctp:4
+#: View/SubCategories/backoffice_index.ctp:4
+#: View/SubCategories/backoffice_insert.ctp:4
+msgid "SUB_CATEGORY_LIST"
+msgstr ""
+
+#: Controller/SubCategoriesController.php:78
+#: View/SubCategories/backoffice_csvupload.ctp:5
+#: View/SubCategories/backoffice_index.ctp:5
+#: View/SubCategories/backoffice_insert.ctp:5
+msgid "NEW_SUB_CATEGORY"
+msgstr ""
+
+#: Controller/SubCategoriesController.php:80
+msgid "EDIT_SUB_CATEGORY"
+msgstr ""
+
+#: Controller/SubCategoriesController.php:86
+msgid "SUB_CATEGORY_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/SubCategoriesController.php:93
+msgid "SUB_CATEGORY_SAVE_FAILED"
+msgstr ""
+
+#: Controller/SubCategoriesController.php:107
+msgid "SUB_CATEGORY_NOT_FOUND"
+msgstr ""
+
+#: Controller/UsersController.php:22;48
+msgid "USERS_SEARCH"
+msgstr ""
+
+#: Controller/UsersController.php:128;266
+#: Controller/WarrantiesController.php:125;170;354;399
+msgid "WARRANTY_NOT_FOUND"
+msgstr ""
+
+#: Controller/UsersController.php:170;313;477
+msgid "USER_REGISTRATION_SUCCESS"
+msgstr ""
+
+#: Controller/UsersController.php:173;316;480
+msgid "USER_REGISTRATION_FAILED"
+msgstr ""
+
+#: Controller/UsersController.php:182;325;489
+msgid "PLAN_DETAILS"
+msgstr ""
+
+#: Controller/UsersController.php:186;329;493
+msgid "PRODUCT_DETAILS"
+msgstr ""
+
+#: Controller/UsersController.php:190;206;333;349;497;513
+msgid "SIGN_UP"
+msgstr ""
+
+#: Controller/UsersController.php:198;341;505
+msgid "SIGN_UP_PREVIEW"
+msgstr ""
+
+#: Controller/UsersController.php:202;345;509
+msgid "SIGN_UP_SUCCESS"
+msgstr ""
+
+#: Controller/WarrantiesController.php:19;234
+msgid "WARRANTIES_LIST"
+msgstr ""
+
+#: Controller/WarrantiesController.php:44;258
+#: View/Warranties/backoffice_index.ctp:5
+#: View/Warranties/backoffice_insert.ctp:9
+#: View/Warranties/backoffice_insert_preview.ctp:5
+#: View/Warranties/backoffice_view.ctp:5
+#: View/Warranties/shop_index.ctp:5
+#: View/Warranties/shop_insert.ctp:9
+#: View/Warranties/shop_insert_preview.ctp:5
+#: View/Warranties/shop_view.ctp:5
+msgid "NEW_WARRANTY"
+msgstr ""
+
+#: Controller/WarrantiesController.php:46;260
+msgid "EDIT_WARRANTY"
+msgstr ""
+
+#: Controller/WarrantiesController.php:93;322
+msgid "WARRANTY_SAVE_SUCCESS"
+msgstr ""
+
+#: Controller/WarrantiesController.php:100;329
+msgid "WARRANTY_SAVE_FAILED"
+msgstr ""
+
+#: Controller/WarrantiesController.php:153;382
+msgid "WARRANTY_FORM"
+msgstr ""
+
+#: Controller/WarrantiesController.php:193;422
+msgid "WARRANTY_CANNOT_DELETE"
+msgstr ""
+
+#: Controller/WarrantiesController.php:221;450
+msgid "WARRANTY_STATUS_CANNOT_CHANGE"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "AICHI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "AKITA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "AOMORI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "CHIBA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "EHIME"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "FUKUI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "FUKUOKA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "FUKUSHIMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "GIFU"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "GUMMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "HIROSHIMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "HOKKAIDO"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "HYOGO"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "IBARAKI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "ISHIKAWA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "IWATE"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "KAGAWA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "KAGOSHIMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "KANAGAWA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "KOCHI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "KUMAMOTO"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "KYOTO"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "MIE"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "MIYAGI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "MIYAZAKI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "NAGANO"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "NAGASAKI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "NARA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "NIIGATA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "OITA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "OKAYAMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "OKINAWA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "OSAKA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "SAGA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "SAITAMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "SHIGA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "SHIMANE"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "SHIZUOKA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "TOCHIGI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "TOKUSHIMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "TOKYO"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "TOTTORI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "TOYAMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "WAKAYAMA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "YAMAGATA"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "YAMAGUCHI"
+msgstr ""
+
+#: Model/AppModel.php:52
+msgid "YAMANASHI"
+msgstr ""
+
+#: Model/AppModel.php:56
+msgid "MALE"
+msgstr ""
+
+#: Model/AppModel.php:56
+msgid "FEMALE"
+msgstr ""
+
+#: Model/FormField.php:14
+msgid "TEXT"
+msgstr ""
+
+#: Model/FormField.php:14
+msgid "TEXTAREA"
+msgstr ""
+
+#: Model/FormField.php:14
+msgid "SINGLE_SELECT"
+msgstr ""
+
+#: Model/FormField.php:14
+msgid "MULTIPLE_SELECT"
+msgstr ""
+
+#: Model/FormField.php:14
+msgid "RADIO"
+msgstr ""
+
+#: Model/FormField.php:15
+#: Model/Group.php:99;100;101
+msgid "YES"
+msgstr ""
+
+#: Model/FormField.php:15
+#: Model/Group.php:99;100;101
+msgid "NO"
+msgstr ""
+
+#: Model/Maker.php:23
+msgid "NO_CORRESPONDENCE"
+msgstr ""
+
+#: Model/Maker.php:23
+msgid "CORRESPONDENCE"
+msgstr ""
+
+#: Model/Plan.php:37
+msgid "FIXED_AMOUNT"
+msgstr ""
+
+#: Model/Plan.php:37
+msgid "SALES_PERCENTAGE"
+msgstr ""
+
+#: Model/Plan.php:37;38
+msgid "BULK_CREDIT"
+msgstr ""
+
+#: Model/Plan.php:37;38
+msgid "MONTHLY_CREDIT"
+msgstr ""
+
+#: Model/Plan.php:39
+msgid "MONTHLY_540_YEN_ASSURANCE_PLAN"
+msgstr ""
+
+#: Model/Plan.php:39
+msgid "MONTHLY_350_YEN_ASSURANCE_PLAN"
+msgstr ""
+
+#: Model/Plan.php:39
+msgid "MONTHLY_599_YEN"
+msgstr ""
+
+#: Model/Plan.php:39
+msgid "MONTHLY_555_YEN_ASSURANCE_PLAN"
+msgstr ""
+
+#: Model/Plan.php:39
+msgid "MONTHLY_500_YEN_ASSURANCE_PLAN (INCLUDING_TAX_540_YEN)"
+msgstr ""
+
+#: Model/Plan.php:40
+msgid "1_YEAR"
+msgstr ""
+
+#: Model/Plan.php:40
+msgid "2_YEAR"
+msgstr ""
+
+#: Model/Plan.php:40
+msgid "3_YEAR"
+msgstr ""
+
+#: Model/Plan.php:40
+msgid "4_YEAR"
+msgstr ""
+
+#: Model/Plan.php:40
+msgid "5_YEAR"
+msgstr ""
+
+#: Model/Plan.php:40
+msgid "6_YEAR"
+msgstr ""
+
+#: Model/Plan.php:40
+msgid "7_YEAR"
+msgstr ""
+
+#: Model/GroupForm.php:19
+#: View/Admins/backoffice_edit_profile.ctp:35
+#: View/Admins/backoffice_index.ctp:27
+#: View/Admins/backoffice_insert.ctp:40
+#: View/Admins/backoffice_profile.ctp:34
+#: View/Categories/backoffice_index.ctp:28
+#: View/FormFields/backoffice_index.ctp:26
+#: View/FormFields/backoffice_insert.ctp:35
+#: View/Genres/backoffice_index.ctp:27
+#: View/GroupUsers/group_edit_profile.ctp:35
+#: View/GroupUsers/group_index.ctp:26
+#: View/GroupUsers/group_profile.ctp:34
+#: View/Groups/backoffice_index.ctp:26
+#: View/Introducers/backoffice_index.ctp:27
+#: View/Introducers/backoffice_insert.ctp:42
+#: View/Introducers/introducer_edit_profile.ctp:35
+#: View/Introducers/introducer_index.ctp:27
+#: View/Introducers/introducer_profile.ctp:34
+#: View/Makers/backoffice_index.ctp:26
+#: View/Merchants/backoffice_index.ctp:28
+#: View/Merchants/backoffice_insert.ctp:42
+#: View/Merchants/group_index.ctp:28
+#: View/Merchants/group_insert.ctp:42
+#: View/Merchants/shop_edit_profile.ctp:35
+#: View/Merchants/shop_index.ctp:28
+#: View/Merchants/shop_insert.ctp:40
+#: View/Merchants/shop_profile.ctp:34
+#: View/Merchants/shop_signup_preview.ctp:7
+#: View/SalesPeople/backoffice_index.ctp:27
+#: View/Shops/group_index.ctp:53
+#: View/Shops/shop_edit_profile.ctp:37
+#: View/Shops/shop_profile.ctp:14
+#: View/SubCategories/backoffice_index.ctp:28
+#: View/Users/backoffice_index.ctp:18
+#: View/Users/order_preview.ctp:133
+#: View/Users/qr_preview.ctp:141
+#: View/Users/qr_preview2.ctp:147
+#: View/Users/shop_index.ctp:20
+msgid "NAME"
+msgstr ""
+
+#: Model/GroupForm.php:25
+#: View/Admins/backoffice_edit_profile.ctp:36
+#: View/Admins/backoffice_insert.ctp:41
+#: View/Admins/backoffice_profile.ctp:38
+#: View/GroupUsers/group_edit_profile.ctp:36
+#: View/GroupUsers/group_profile.ctp:38
+#: View/Introducers/backoffice_insert.ctp:43
+#: View/Introducers/introducer_edit_profile.ctp:36
+#: View/Introducers/introducer_profile.ctp:38
+#: View/Merchants/backoffice_insert.ctp:43
+#: View/Merchants/group_insert.ctp:43
+#: View/Merchants/shop_edit_profile.ctp:36
+#: View/Merchants/shop_insert.ctp:41
+#: View/Merchants/shop_profile.ctp:38
+#: View/Merchants/shop_signup_preview.ctp:11
+#: View/Shops/group_index.ctp:54
+#: View/Shops/shop_edit_profile.ctp:38
+#: View/Shops/shop_profile.ctp:18
+#: View/Users/order_preview.ctp:137
+#: View/Users/qr_preview.ctp:145
+#: View/Users/qr_preview2.ctp:151
+msgid "NAME_KANA"
+msgstr ""
+
+#: Model/GroupForm.php:31
+#: View/Admins/backoffice_edit_profile.ctp:37
+#: View/Admins/backoffice_forgot_password.ctp:15
+#: View/Admins/backoffice_insert.ctp:42
+#: View/Admins/backoffice_profile.ctp:42
+#: View/GroupUsers/group_edit_profile.ctp:37
+#: View/GroupUsers/group_forgot_password.ctp:15
+#: View/GroupUsers/group_profile.ctp:42
+#: View/Introducers/backoffice_insert.ctp:44
+#: View/Introducers/introducer_edit_profile.ctp:37
+#: View/Introducers/introducer_forgot_password.ctp:15
+#: View/Introducers/introducer_profile.ctp:42
+#: View/Merchants/backoffice_insert.ctp:44
+#: View/Merchants/group_insert.ctp:44
+#: View/Merchants/shop_edit_profile.ctp:37
+#: View/Merchants/shop_forgot_password.ctp:15
+#: View/Merchants/shop_insert.ctp:42
+#: View/Merchants/shop_profile.ctp:42
+#: View/Shops/backoffice_index.ctp:59
+#: View/Shops/backoffice_insert.ctp:43
+#: View/Shops/backoffice_view.ctp:59
+#: View/Shops/group_insert.ctp:39
+#: View/Shops/group_view.ctp:55
+#: View/Shops/shop_edit_profile.ctp:39
+#: View/Shops/shop_profile.ctp:22
+msgid "EMAIL_ADDRESS"
+msgstr ""
+
+#: Model/GroupForm.php:36
+#: View/GroupUsers/group_edit_profile.ctp:38
+#: View/GroupUsers/group_profile.ctp:46
+#: View/Introducers/backoffice_insert.ctp:45
+#: View/Introducers/introducer_edit_profile.ctp:38
+#: View/Introducers/introducer_profile.ctp:46
+#: View/Merchants/backoffice_insert.ctp:45
+#: View/Merchants/group_insert.ctp:45
+#: View/Merchants/shop_edit_profile.ctp:38
+#: View/Merchants/shop_insert.ctp:44
+#: View/Merchants/shop_profile.ctp:46
+#: View/Merchants/shop_signup_preview.ctp:19
+#: View/Shops/backoffice_insert.ctp:44
+#: View/Shops/backoffice_view.ctp:63
+#: View/Shops/group_insert.ctp:40
+#: View/Shops/group_view.ctp:59
+#: View/Shops/shop_edit_profile.ctp:40
+#: View/Shops/shop_profile.ctp:26
+#: View/Users/order_preview.ctp:145
+#: View/Users/qr_preview.ctp:153
+#: View/Users/qr_preview2.ctp:159
+msgid "ZIP_CODE"
+msgstr ""
+
+#: Model/GroupForm.php:41
+#: View/GroupUsers/group_edit_profile.ctp:39
+#: View/GroupUsers/group_profile.ctp:50
+#: View/Introducers/backoffice_insert.ctp:46
+#: View/Introducers/introducer_edit_profile.ctp:39
+#: View/Introducers/introducer_profile.ctp:50
+#: View/Merchants/backoffice_insert.ctp:46
+#: View/Merchants/group_insert.ctp:46
+#: View/Merchants/shop_edit_profile.ctp:39
+#: View/Merchants/shop_insert.ctp:45
+#: View/Merchants/shop_profile.ctp:50
+#: View/Merchants/shop_signup_preview.ctp:23
+#: View/Shops/backoffice_insert.ctp:45
+#: View/Shops/group_insert.ctp:41
+#: View/Shops/shop_edit_profile.ctp:41
+#: View/Shops/shop_profile.ctp:30
+#: View/Users/order_preview.ctp:149
+#: View/Users/qr_preview.ctp:157
+#: View/Users/qr_preview2.ctp:163
+msgid "STATE"
+msgstr ""
+
+#: Model/GroupForm.php:47
+#: View/GroupUsers/group_edit_profile.ctp:40
+#: View/GroupUsers/group_profile.ctp:59
+#: View/Introducers/backoffice_insert.ctp:47
+#: View/Introducers/introducer_edit_profile.ctp:40
+#: View/Introducers/introducer_profile.ctp:59
+#: View/Merchants/backoffice_insert.ctp:47
+#: View/Merchants/group_insert.ctp:47
+#: View/Merchants/shop_edit_profile.ctp:40
+#: View/Merchants/shop_insert.ctp:46
+#: View/Merchants/shop_profile.ctp:59
+#: View/Shops/backoffice_insert.ctp:46
+#: View/Shops/backoffice_view.ctp:67
+#: View/Shops/group_insert.ctp:42
+#: View/Shops/group_view.ctp:63
+#: View/Shops/shop_edit_profile.ctp:42
+#: View/Shops/shop_profile.ctp:39
+#: View/Users/order.ctp:122
+#: View/Users/order_preview.ctp:85;153
+#: View/Users/qr.ctp:140
+#: View/Users/qr2.ctp:159
+#: View/Users/qr_preview.ctp:93;161
+#: View/Users/qr_preview2.ctp:93;167
+#: View/Warranties/backoffice_view.ctp:95
+#: View/Warranties/shop_view.ctp:95
+msgid "STREET_ADDRESS"
+msgstr ""
+
+#: Model/GroupForm.php:52
+#: View/Admins/backoffice_edit_profile.ctp:38
+#: View/Admins/backoffice_insert.ctp:44
+#: View/Admins/backoffice_profile.ctp:46
+#: View/GroupUsers/group_edit_profile.ctp:41
+#: View/GroupUsers/group_profile.ctp:63
+#: View/Introducers/backoffice_insert.ctp:48
+#: View/Introducers/introducer_edit_profile.ctp:41
+#: View/Introducers/introducer_profile.ctp:63
+#: View/Merchants/backoffice_insert.ctp:48
+#: View/Merchants/group_insert.ctp:48
+#: View/Merchants/shop_edit_profile.ctp:41
+#: View/Merchants/shop_insert.ctp:47
+#: View/Merchants/shop_profile.ctp:63
+#: View/Shops/backoffice_insert.ctp:47
+#: View/Shops/backoffice_view.ctp:71
+#: View/Shops/group_insert.ctp:43
+#: View/Shops/group_view.ctp:67
+#: View/Shops/shop_edit_profile.ctp:43
+#: View/Shops/shop_profile.ctp:43
+#: View/Users/order_preview.ctp:157
+#: View/Users/qr_preview.ctp:165
+#: View/Users/qr_preview2.ctp:171
+msgid "TELEPHONE_NUMBER"
+msgstr ""
+
+#: Model/GroupForm.php:58
+#: View/GroupUsers/group_edit_profile.ctp:44
+#: View/GroupUsers/group_index.ctp:29
+#: View/GroupUsers/group_profile.ctp:76
+#: View/Introducers/backoffice_insert.ctp:51
+#: View/Introducers/introducer_edit_profile.ctp:44
+#: View/Introducers/introducer_index.ctp:30
+#: View/Introducers/introducer_profile.ctp:67
+#: View/Merchants/backoffice_index.ctp:31
+#: View/Merchants/backoffice_insert.ctp:51
+#: View/Merchants/group_index.ctp:31
+#: View/Merchants/group_insert.ctp:51
+#: View/Merchants/shop_edit_profile.ctp:44
+#: View/Merchants/shop_index.ctp:31
+#: View/Merchants/shop_insert.ctp:50
+#: View/Merchants/shop_profile.ctp:67
+#: View/Merchants/shop_signup_preview.ctp:40
+#: View/Users/backoffice_index.ctp:21
+#: View/Users/order_preview.ctp:161
+#: View/Users/qr_preview.ctp:169
+#: View/Users/qr_preview2.ctp:175
+#: View/Users/shop_index.ctp:23
+msgid "BIRTHDATE"
+msgstr ""
+
+#: Model/GroupForm.php:63
+#: View/GroupUsers/group_edit_profile.ctp:58
+#: View/GroupUsers/group_profile.ctp:67
+#: View/Introducers/backoffice_insert.ctp:65
+#: View/Introducers/introducer_edit_profile.ctp:58
+#: View/Introducers/introducer_profile.ctp:71
+#: View/Merchants/backoffice_insert.ctp:65
+#: View/Merchants/group_insert.ctp:65
+#: View/Merchants/shop_edit_profile.ctp:58
+#: View/Merchants/shop_insert.ctp:64
+#: View/Merchants/shop_profile.ctp:71
+#: View/Merchants/shop_signup_preview.ctp:44
+#: View/Users/order_preview.ctp:165
+#: View/Users/qr_preview.ctp:173
+#: View/Users/qr_preview2.ctp:179
+msgid "GENDER"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:80
+msgid "Plugin to process"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:83
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:88
+msgid "Add new ACOs for new controllers and actions. Does not remove nodes from the ACO table."
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:93
+msgid "Perform a full sync on the ACO table.Will create new ACOs or missing controllers and actions.Will also remove orphaned entries that no longer have a matching controller/action"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:97
+msgid "Verify the tree structure of either your Aco or Aro Trees"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:102
+msgid "The type of tree to verify"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:108
+msgid "Recover a corrupted Tree"
+msgstr ""
+
+#: Plugin/AclExtras/Console/Command/AclExtrasShell.php:113
+msgid "The type of tree to recover"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:123
+msgid "<error>Plugin %s not found or not activated</error>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:136
+msgid "<success>Aco Update Complete</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:181
+msgid "Deleted %s and all children"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:222
+msgid "Created Aco node: <success>%s</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:275
+msgid "Unable to get methods for \"%s\""
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:296
+msgid "Deleted Aco node: <warning>%s</warning>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:315
+msgid "<success>Tree is valid and strong</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:333
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:335
+msgid "<error>Tree recovery failed.</error>"
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:24
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:43
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:6
+msgid "Alert notice message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:46;62
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:10
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:6
+msgid "Alert success message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:50
+#: Plugin/BoostCake/View/Elements/bootstrap2/alerts.ctp:15
+msgid "Alert error message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:66
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:11
+msgid "Alert info message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:70
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:16
+msgid "Alert warning message testing..."
+msgstr ""
+
+#: Plugin/BoostCake/Controller/BoostCakeController.php:74
+#: Plugin/BoostCake/View/Elements/bootstrap3/alerts.ctp:21
+msgid "Alert danger message testing..."
+msgstr ""
+
+#: Plugin/LessCompiler/Controller/Component/LessComponent.php:159
+msgid "The LessCompiler plugin requires PHP version %s or higher!"
+msgstr ""
+
+#: Plugin/LessCompiler/Controller/Component/LessComponent.php:163
+msgid "The LessCompiler plugin requires CakePHP version %s or higher!"
+msgstr ""
+
+#: Plugin/LessCompiler/Controller/Component/LessComponent.php:169
+msgid "The LessCompiler plugin requires lessc version %s or higher!"
+msgstr ""
+
+#: Plugin/Upload/Console/Command/ThumbnailShell.php:34
+msgid "Which model would you like to regenerate thumbnails for?"
+msgstr ""
+
+#: Plugin/Upload/Console/Command/ThumbnailShell.php:39
+msgid "<error>"
+msgstr ""
+
+#: Plugin/Upload/Model/Behavior/UploadBehavior.php:1078
+msgid "No filename after parsing. Function %s returned an invalid filename"
+msgstr ""
+
+#: View/Admins/backoffice_change_password.ctp:19
+#: View/Admins/backoffice_edit_profile.ctp:20
+#: View/Admins/backoffice_insert.ctp:29
+#: View/Agreements/backoffice_insert.ctp:29
+#: View/Categories/backoffice_csvupload.ctp:30
+#: View/Categories/backoffice_insert.ctp:30
+#: View/FormFields/backoffice_insert.ctp:29
+#: View/Genres/backoffice_csvupload.ctp:30
+#: View/Genres/backoffice_insert.ctp:30
+#: View/GroupUsers/group_change_password.ctp:20
+#: View/GroupUsers/group_edit_profile.ctp:20
+#: View/Groups/backoffice_insert.ctp:29
+#: View/Introducers/backoffice_csvupload.ctp:30
+#: View/Introducers/backoffice_insert.ctp:30
+#: View/Introducers/introducer_change_password.ctp:20
+#: View/Introducers/introducer_edit_profile.ctp:20
+#: View/Makers/backoffice_csvupload.ctp:30
+#: View/Makers/backoffice_insert.ctp:30
+#: View/Merchants/backoffice_insert.ctp:29
+#: View/Merchants/group_insert.ctp:29
+#: View/Merchants/shop_change_password.ctp:20
+#: View/Merchants/shop_edit_profile.ctp:20
+#: View/Merchants/shop_insert.ctp:28
+#: View/Plans/backoffice_insert.ctp:34
+#: View/SalesPeople/backoffice_csvupload.ctp:30
+#: View/SalesPeople/backoffice_insert.ctp:30
+#: View/Shops/backoffice_insert.ctp:32
+#: View/Shops/group_insert.ctp:29
+#: View/Shops/shop_edit_profile.ctp:23
+#: View/SubCategories/backoffice_csvupload.ctp:30
+#: View/SubCategories/backoffice_insert.ctp:30
+#: View/Users/order.ctp:23
+#: View/Users/qr.ctp:20
+#: View/Users/qr2.ctp:20
+#: View/Warranties/backoffice_insert.ctp:33
+#: View/Warranties/shop_insert.ctp:33
+msgid "REQUIRED_FIELD_HINT"
+msgstr ""
+
+#: View/Admins/backoffice_change_password.ctp:23
+#: View/GroupUsers/group_change_password.ctp:24
+#: View/Introducers/introducer_change_password.ctp:24
+#: View/Merchants/shop_change_password.ctp:24
+msgid "OLD_PASSWORD"
+msgstr ""
+
+#: View/Admins/backoffice_change_password.ctp:26
+#: View/Admins/backoffice_reset_password.ctp:22
+#: View/GroupUsers/group_change_password.ctp:27
+#: View/GroupUsers/group_reset_password.ctp:22
+#: View/Introducers/introducer_change_password.ctp:27
+#: View/Introducers/introducer_reset_password.ctp:22
+#: View/Merchants/shop_change_password.ctp:27
+#: View/Merchants/shop_reset_password.ctp:22
+msgid "NEW_PASSWORD"
+msgstr ""
+
+#: View/Admins/backoffice_change_password.ctp:29
+#: View/Admins/backoffice_reset_password.ctp:23
+#: View/GroupUsers/group_change_password.ctp:30
+#: View/GroupUsers/group_reset_password.ctp:23
+#: View/Introducers/introducer_change_password.ctp:30
+#: View/Introducers/introducer_reset_password.ctp:23
+#: View/Merchants/shop_change_password.ctp:30
+#: View/Merchants/shop_reset_password.ctp:23
+msgid "VERIFY_NEW_PASSWORD"
+msgstr ""
+
+#: View/Admins/backoffice_change_password.ctp:34
+#: View/Admins/backoffice_edit_profile.ctp:43
+#: View/Admins/backoffice_insert.ctp:50;52
+#: View/Agreements/backoffice_insert.ctp:43;45
+#: View/Categories/backoffice_csvupload.ctp:41;43
+#: View/Categories/backoffice_insert.ctp:43;45
+#: View/FormFields/backoffice_insert.ctp:51;53
+#: View/Genres/backoffice_csvupload.ctp:41;43
+#: View/Genres/backoffice_insert.ctp:42;44
+#: View/GroupUsers/group_change_password.ctp:35
+#: View/GroupUsers/group_edit_profile.ctp:66
+#: View/Groups/backoffice_insert.ctp:65;67
+#: View/Introducers/backoffice_csvupload.ctp:41;43
+#: View/Introducers/backoffice_insert.ctp:74;76
+#: View/Introducers/introducer_change_password.ctp:35
+#: View/Introducers/introducer_edit_profile.ctp:66
+#: View/Makers/backoffice_csvupload.ctp:41;43
+#: View/Makers/backoffice_insert.ctp:49;51
+#: View/Merchants/backoffice_insert.ctp:74;76
+#: View/Merchants/group_insert.ctp:74;76
+#: View/Merchants/shop_change_password.ctp:35
+#: View/Merchants/shop_edit_profile.ctp:66
+#: View/Merchants/shop_insert.ctp:72
+#: View/Plans/backoffice_insert.ctp:72;74
+#: View/SalesPeople/backoffice_csvupload.ctp:41;43
+#: View/SalesPeople/backoffice_insert.ctp:42;44
+#: View/Shops/backoffice_insert.ctp:54;56
+#: View/Shops/backoffice_view.ctp:84;86
+#: View/Shops/group_insert.ctp:50;52
+#: View/Shops/group_view.ctp:80;82
+#: View/Shops/shop_edit_profile.ctp:49;51
+#: View/SubCategories/backoffice_csvupload.ctp:41;43
+#: View/SubCategories/backoffice_insert.ctp:44;46
+#: View/Warranties/backoffice_insert.ctp:77;79
+#: View/Warranties/backoffice_insert_preview.ctp:124;126
+#: View/Warranties/shop_insert.ctp:72
+#: View/Warranties/shop_insert_preview.ctp:108
+msgid "BACK"
+msgstr ""
+
+#: View/Admins/backoffice_change_password.ctp:35
+#: View/Admins/backoffice_edit_profile.ctp:44
+#: View/GroupUsers/group_change_password.ctp:36
+#: View/GroupUsers/group_edit_profile.ctp:67
+#: View/Introducers/introducer_change_password.ctp:36
+#: View/Introducers/introducer_edit_profile.ctp:67
+#: View/Merchants/shop_change_password.ctp:36
+#: View/Merchants/shop_edit_profile.ctp:67
+#: View/Shops/shop_edit_profile.ctp:53
+msgid "UPDATE"
+msgstr ""
+
+#: View/Admins/backoffice_edit_profile.ctp:25
+#: View/GroupUsers/group_edit_profile.ctp:25
+#: View/Introducers/introducer_edit_profile.ctp:25
+#: View/Merchants/shop_edit_profile.ctp:25
+msgid "USER_NAME"
+msgstr ""
+
+#: View/Admins/backoffice_edit_profile.ctp:35
+#: View/Admins/backoffice_insert.ctp:40
+#: View/FormFields/backoffice_insert.ctp:35
+#: View/GroupUsers/group_edit_profile.ctp:35
+#: View/Introducers/backoffice_insert.ctp:42
+#: View/Introducers/introducer_edit_profile.ctp:35
+#: View/Merchants/backoffice_insert.ctp:42
+#: View/Merchants/group_insert.ctp:42
+#: View/Merchants/shop_edit_profile.ctp:35
+#: View/Merchants/shop_insert.ctp:40
+#: View/Shops/shop_edit_profile.ctp:37
+msgid "NAME_PLACEHOLDER"
+msgstr ""
+
+#: View/Admins/backoffice_edit_profile.ctp:36
+#: View/Admins/backoffice_insert.ctp:41
+#: View/GroupUsers/group_edit_profile.ctp:36
+#: View/Introducers/backoffice_insert.ctp:43
+#: View/Introducers/introducer_edit_profile.ctp:36
+#: View/Merchants/backoffice_insert.ctp:43
+#: View/Merchants/group_insert.ctp:43
+#: View/Merchants/shop_edit_profile.ctp:36
+#: View/Merchants/shop_insert.ctp:41
+#: View/Shops/shop_edit_profile.ctp:38
+msgid "NAME_KANA_PLACEHOLDER"
+msgstr ""
+
+#: View/Admins/backoffice_edit_profile.ctp:37
+#: View/Admins/backoffice_forgot_password.ctp:15
+#: View/Admins/backoffice_insert.ctp:42
+#: View/GroupUsers/group_edit_profile.ctp:37
+#: View/GroupUsers/group_forgot_password.ctp:15
+#: View/Introducers/backoffice_insert.ctp:44
+#: View/Introducers/introducer_edit_profile.ctp:37
+#: View/Introducers/introducer_forgot_password.ctp:15
+#: View/Merchants/backoffice_insert.ctp:44
+#: View/Merchants/group_insert.ctp:44
+#: View/Merchants/shop_edit_profile.ctp:37
+#: View/Merchants/shop_forgot_password.ctp:15
+#: View/Merchants/shop_insert.ctp:42
+#: View/Shops/backoffice_insert.ctp:43
+#: View/Shops/group_insert.ctp:39
+#: View/Shops/shop_edit_profile.ctp:39
+msgid "EMAIL_ADDRESS_PLACEHOLDER"
+msgstr ""
+
+#: View/Admins/backoffice_edit_profile.ctp:38
+#: View/Admins/backoffice_insert.ctp:44
+#: View/GroupUsers/group_edit_profile.ctp:41
+#: View/Introducers/backoffice_insert.ctp:48
+#: View/Introducers/introducer_edit_profile.ctp:41
+#: View/Merchants/backoffice_insert.ctp:48
+#: View/Merchants/group_insert.ctp:48
+#: View/Merchants/shop_edit_profile.ctp:41
+#: View/Merchants/shop_insert.ctp:47
+#: View/Shops/backoffice_insert.ctp:47
+#: View/Shops/group_insert.ctp:43
+#: View/Shops/shop_edit_profile.ctp:43
+msgid "TELEPHONE_NUMBER_PLACEHOLDER"
+msgstr ""
+
+#: View/Admins/backoffice_forgot_password.ctp:2
+#: View/GroupUsers/group_forgot_password.ctp:2
+#: View/Introducers/introducer_forgot_password.ctp:2
+#: View/Merchants/shop_forgot_password.ctp:2
+msgid "FORGOT_PASSWORD_DESCRIPTION"
+msgstr ""
+
+#: View/Admins/backoffice_forgot_password.ctp:14
+#: View/Admins/backoffice_insert.ctp:36
+#: View/Admins/backoffice_profile.ctp:17
+#: View/GroupUsers/group_forgot_password.ctp:14
+#: View/GroupUsers/group_index.ctp:25
+#: View/GroupUsers/group_profile.ctp:17
+#: View/Introducers/backoffice_index.ctp:30
+#: View/Introducers/backoffice_insert.ctp:37
+#: View/Introducers/introducer_forgot_password.ctp:14
+#: View/Introducers/introducer_profile.ctp:17
+#: View/Merchants/backoffice_index.ctp:27
+#: View/Merchants/backoffice_insert.ctp:37
+#: View/Merchants/group_index.ctp:27
+#: View/Merchants/group_insert.ctp:37
+#: View/Merchants/shop_forgot_password.ctp:14
+#: View/Merchants/shop_insert.ctp:35
+#: View/Merchants/shop_profile.ctp:17
+#: View/Users/shop_index.ctp:18
+msgid "USERNAME"
+msgstr ""
+
+#: View/Admins/backoffice_forgot_password.ctp:14
+#: View/Admins/backoffice_insert.ctp:36
+#: View/GroupUsers/group_forgot_password.ctp:14
+#: View/Introducers/introducer_forgot_password.ctp:14
+#: View/Merchants/shop_forgot_password.ctp:14
+msgid "USERNAME_PLACEHOLDER"
+msgstr ""
+
+#: View/Admins/backoffice_forgot_password.ctp:22
+#: View/GroupUsers/group_forgot_password.ctp:22
+#: View/Introducers/introducer_forgot_password.ctp:22
+#: View/Merchants/shop_forgot_password.ctp:22
+msgid "BACK_TO_LOGIN_URL"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:4
+#: View/Admins/backoffice_insert.ctp:4
+#: View/Introducers/introducer_index.ctp:4
+#: View/Merchants/shop_index.ctp:4
+#: View/Merchants/shop_insert.ctp:4
+msgid "ADMIN_LIST"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:17
+#: View/Agreements/backoffice_index.ctp:17
+#: View/Categories/backoffice_index.ctp:19
+#: View/FormFields/backoffice_index.ctp:17
+#: View/Genres/backoffice_index.ctp:18
+#: View/GroupUsers/group_index.ctp:16
+#: View/Groups/backoffice_index.ctp:17
+#: View/Introducers/backoffice_index.ctp:18
+#: View/Introducers/introducer_index.ctp:17
+#: View/Makers/backoffice_index.ctp:17
+#: View/Merchants/backoffice_index.ctp:17
+#: View/Merchants/group_index.ctp:17
+#: View/Merchants/shop_index.ctp:17
+#: View/Plans/backoffice_index.ctp:22
+#: View/Plans/group_index.ctp:16
+#: View/Plans/shop_index.ctp:16
+#: View/SalesPeople/backoffice_index.ctp:18
+#: View/Shops/backoffice_index.ctp:47
+#: View/Shops/group_index.ctp:44
+#: View/SubCategories/backoffice_index.ctp:19
+#: View/Users/backoffice_index.ctp:10
+#: View/Users/shop_index.ctp:10
+#: View/Warranties/backoffice_index.ctp:17
+#: View/Warranties/shop_index.ctp:17
+msgid "SHOWING_{:start}_TO_{:end}_OUT_{:count}"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:25
+#: View/Introducers/introducer_index.ctp:25
+#: View/Merchants/shop_index.ctp:25
+msgid "ADMIN_ID"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:26
+#: View/Shops/backoffice_view.ctp:30
+#: View/Shops/group_view.ctp:30
+msgid "LOGIN_ID"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:28
+#: View/GroupUsers/group_index.ctp:27
+#: View/Introducers/backoffice_index.ctp:28
+#: View/Introducers/introducer_index.ctp:28
+#: View/Merchants/backoffice_index.ctp:29
+#: View/Merchants/group_index.ctp:29
+#: View/Merchants/shop_index.ctp:29
+#: View/Merchants/shop_signup_preview.ctp:15
+#: View/Shops/group_index.ctp:56
+#: View/Users/backoffice_index.ctp:19
+#: View/Users/order_preview.ctp:141
+#: View/Users/qr_preview.ctp:149
+#: View/Users/qr_preview2.ctp:155
+#: View/Users/shop_index.ctp:21
+msgid "EMAIL"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:29
+#: View/GroupUsers/group_index.ctp:28
+#: View/Introducers/backoffice_index.ctp:29
+#: View/Introducers/introducer_index.ctp:29
+#: View/Merchants/backoffice_index.ctp:30
+#: View/Merchants/group_index.ctp:30
+#: View/Merchants/shop_index.ctp:30
+#: View/Merchants/shop_signup_preview.ctp:36
+#: View/Shops/group_index.ctp:57
+#: View/Users/backoffice_index.ctp:20
+#: View/Users/shop_index.ctp:22
+msgid "PHONE"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:30
+#: View/Agreements/backoffice_index.ctp:29
+#: View/Categories/backoffice_index.ctp:30
+#: View/FormFields/backoffice_index.ctp:30
+#: View/Genres/backoffice_index.ctp:29
+#: View/GroupUsers/group_index.ctp:30
+#: View/Groups/backoffice_index.ctp:32
+#: View/Introducers/backoffice_index.ctp:33
+#: View/Introducers/introducer_index.ctp:31
+#: View/Makers/backoffice_index.ctp:28
+#: View/Merchants/backoffice_index.ctp:32
+#: View/Merchants/group_index.ctp:32
+#: View/Merchants/shop_index.ctp:32
+#: View/Plans/backoffice_index.ctp:42
+#: View/SalesPeople/backoffice_index.ctp:29
+#: View/Shops/backoffice_index.ctp:62
+#: View/Shops/group_index.ctp:59
+#: View/SubCategories/backoffice_index.ctp:30
+#: View/Warranties/backoffice_index.ctp:34
+#: View/Warranties/shop_index.ctp:34
+msgid "STATUS"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:31
+#: View/Agreements/backoffice_index.ctp:30
+#: View/Categories/backoffice_index.ctp:31
+#: View/FormFields/backoffice_index.ctp:31
+#: View/Genres/backoffice_index.ctp:30
+#: View/GroupUsers/group_index.ctp:31
+#: View/Groups/backoffice_index.ctp:33
+#: View/Introducers/backoffice_index.ctp:34
+#: View/Introducers/introducer_index.ctp:32
+#: View/Makers/backoffice_index.ctp:29
+#: View/Merchants/backoffice_index.ctp:33
+#: View/Merchants/group_index.ctp:33
+#: View/Merchants/shop_index.ctp:33
+#: View/Plans/backoffice_index.ctp:43
+#: View/SalesPeople/backoffice_index.ctp:30
+#: View/Shops/backoffice_index.ctp:63
+#: View/Shops/group_index.ctp:60
+#: View/SubCategories/backoffice_index.ctp:31
+#: View/Warranties/backoffice_index.ctp:35
+#: View/Warranties/shop_index.ctp:35
+msgid "ACTION"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:44;46
+#: View/Agreements/backoffice_index.ctp:42;44
+#: View/Categories/backoffice_index.ctp:45;47
+#: View/FormFields/backoffice_index.ctp:44;46
+#: View/Genres/backoffice_index.ctp:44;46
+#: View/GroupUsers/group_index.ctp:45;47
+#: View/Groups/backoffice_index.ctp:70;72
+#: View/Introducers/backoffice_index.ctp:49;51
+#: View/Introducers/introducer_index.ctp:46;48
+#: View/Makers/backoffice_index.ctp:44;46
+#: View/Merchants/backoffice_index.ctp:53;55
+#: View/Merchants/group_index.ctp:53;55
+#: View/Merchants/shop_index.ctp:53;55
+#: View/Plans/backoffice_index.ctp:83;85
+#: View/SalesPeople/backoffice_index.ctp:41;43
+#: View/Shops/backoffice_index.ctp:82;84
+#: View/Shops/group_index.ctp:79;81
+#: View/SubCategories/backoffice_index.ctp:45;47
+#: View/Warranties/backoffice_index.ctp:58;60
+#: View/Warranties/shop_index.ctp:58;60
+msgid "ON"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:44;46
+#: View/Agreements/backoffice_index.ctp:42;44
+#: View/Categories/backoffice_index.ctp:45;47
+#: View/FormFields/backoffice_index.ctp:44;46
+#: View/Genres/backoffice_index.ctp:44;46
+#: View/GroupUsers/group_index.ctp:45;47
+#: View/Groups/backoffice_index.ctp:70;72
+#: View/Introducers/backoffice_index.ctp:49;51
+#: View/Introducers/introducer_index.ctp:46;48
+#: View/Makers/backoffice_index.ctp:44;46
+#: View/Merchants/backoffice_index.ctp:53;55
+#: View/Merchants/group_index.ctp:53;55
+#: View/Merchants/shop_index.ctp:53;55
+#: View/Plans/backoffice_index.ctp:83;85
+#: View/SalesPeople/backoffice_index.ctp:41;43
+#: View/Shops/backoffice_index.ctp:82;84
+#: View/Shops/group_index.ctp:79;81
+#: View/SubCategories/backoffice_index.ctp:45;47
+#: View/Warranties/backoffice_index.ctp:58;60
+#: View/Warranties/shop_index.ctp:58;60
+msgid "OFF"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:44
+#: View/GroupUsers/group_index.ctp:45
+#: View/Introducers/introducer_index.ctp:46
+#: View/Merchants/shop_index.ctp:53
+msgid "CONFIRM_INACTIVE_ADMIN_%s?"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:46
+#: View/GroupUsers/group_index.ctp:47
+#: View/Introducers/introducer_index.ctp:48
+#: View/Merchants/shop_index.ctp:55
+msgid "CONFIRM_ACTIVE_ADMIN_%s?"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:50
+#: View/Agreements/backoffice_index.ctp:48
+#: View/Categories/backoffice_index.ctp:51
+#: View/FormFields/backoffice_index.ctp:50
+#: View/Genres/backoffice_index.ctp:50
+#: View/GroupUsers/group_index.ctp:51
+#: View/Groups/backoffice_index.ctp:76
+#: View/Introducers/backoffice_index.ctp:55
+#: View/Introducers/introducer_index.ctp:52
+#: View/Makers/backoffice_index.ctp:50
+#: View/Merchants/backoffice_index.ctp:59
+#: View/Merchants/group_index.ctp:59
+#: View/Merchants/shop_index.ctp:59
+#: View/Plans/backoffice_index.ctp:90;92
+#: View/SalesPeople/backoffice_index.ctp:47
+#: View/Shops/backoffice_index.ctp:88
+#: View/Shops/group_index.ctp:85
+#: View/SubCategories/backoffice_index.ctp:51
+#: View/Warranties/backoffice_index.ctp:64
+#: View/Warranties/shop_index.ctp:64
+msgid "EDIT"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:52
+#: View/Agreements/backoffice_index.ctp:50
+#: View/Categories/backoffice_index.ctp:53
+#: View/FormFields/backoffice_index.ctp:52
+#: View/Genres/backoffice_index.ctp:52
+#: View/GroupUsers/group_index.ctp:53
+#: View/Groups/backoffice_index.ctp:78
+#: View/Introducers/backoffice_index.ctp:57
+#: View/Introducers/introducer_index.ctp:54
+#: View/Makers/backoffice_index.ctp:52
+#: View/Merchants/backoffice_index.ctp:61
+#: View/Merchants/group_index.ctp:61
+#: View/Merchants/shop_index.ctp:61
+#: View/Plans/backoffice_index.ctp:95
+#: View/SalesPeople/backoffice_index.ctp:49
+#: View/Shops/backoffice_index.ctp:90
+#: View/Shops/group_index.ctp:87
+#: View/SubCategories/backoffice_index.ctp:53
+#: View/Warranties/backoffice_index.ctp:66
+#: View/Warranties/shop_index.ctp:66
+msgid "DELETE"
+msgstr ""
+
+#: View/Admins/backoffice_index.ctp:52
+#: View/GroupUsers/group_index.ctp:53
+#: View/Introducers/introducer_index.ctp:54
+#: View/Merchants/shop_index.ctp:61
+msgid "CONFIRM_DELETE_ADMIN_%s?"
+msgstr ""
+
+#: View/Admins/backoffice_insert.ctp:37
+#: View/Admins/backoffice_profile.ctp:21
+#: View/GroupUsers/group_profile.ctp:21
+#: View/Introducers/backoffice_index.ctp:31
+#: View/Introducers/backoffice_insert.ctp:38
+#: View/Introducers/introducer_profile.ctp:21
+#: View/Merchants/backoffice_insert.ctp:38
+#: View/Merchants/group_insert.ctp:38
+#: View/Merchants/shop_insert.ctp:36
+#: View/Merchants/shop_profile.ctp:21
+#: View/Shops/backoffice_view.ctp:34
+#: View/Shops/group_view.ctp:34
+msgid "PASSWORD"
+msgstr ""
+
+#: View/Admins/backoffice_insert.ctp:37
+#: View/Admins/backoffice_login.ctp:18
+#: View/Admins/backoffice_reset_password.ctp:22
+#: View/GroupUsers/group_login.ctp:18
+#: View/GroupUsers/group_reset_password.ctp:22
+#: View/Introducers/backoffice_insert.ctp:38
+#: View/Introducers/introducer_login.ctp:18
+#: View/Introducers/introducer_reset_password.ctp:22
+#: View/Merchants/backoffice_insert.ctp:38
+#: View/Merchants/group_insert.ctp:38
+#: View/Merchants/shop_insert.ctp:36
+#: View/Merchants/shop_login.ctp:18
+#: View/Merchants/shop_reset_password.ctp:22
+msgid "PASSWORD_PLACEHOLDER"
+msgstr ""
+
+#: View/Admins/backoffice_insert.ctp:38
+#: View/Introducers/backoffice_insert.ctp:39
+#: View/Merchants/backoffice_insert.ctp:39
+#: View/Merchants/group_insert.ctp:39
+#: View/Merchants/shop_insert.ctp:37
+msgid "PASSWORD_VERIFY"
+msgstr ""
+
+#: View/Admins/backoffice_insert.ctp:38
+#: View/Admins/backoffice_reset_password.ctp:23
+#: View/GroupUsers/group_reset_password.ctp:23
+#: View/Introducers/backoffice_insert.ctp:39
+#: View/Introducers/introducer_reset_password.ctp:23
+#: View/Merchants/backoffice_insert.ctp:39
+#: View/Merchants/group_insert.ctp:39
+#: View/Merchants/shop_insert.ctp:37
+#: View/Merchants/shop_reset_password.ctp:23
+msgid "PASSWORD_VERIFY_PLACEHOLDER"
+msgstr ""
+
+#: View/Admins/backoffice_insert.ctp:43
+#: View/Merchants/shop_insert.ctp:43
+msgid "ROLE"
+msgstr ""
+
+#: View/Admins/backoffice_insert.ctp:43
+#: View/FormFields/backoffice_insert.ctp:37
+#: View/GroupUsers/group_edit_profile.ctp:39
+#: View/Groups/backoffice_insert.ctp:43;44
+#: View/Introducers/backoffice_insert.ctp:46
+#: View/Introducers/introducer_edit_profile.ctp:39
+#: View/Merchants/backoffice_insert.ctp:35;46
+#: View/Merchants/group_insert.ctp:35;46
+#: View/Merchants/shop_edit_profile.ctp:39
+#: View/Merchants/shop_insert.ctp:43;45
+#: View/Plans/backoffice_insert.ctp:52
+#: View/Shops/backoffice_index.ctp:35
+#: View/Shops/backoffice_insert.ctp:39;45
+#: View/Shops/group_insert.ctp:41
+#: View/Shops/shop_edit_profile.ctp:41
+#: View/Users/order.ctp:58;99;100;101;102;135
+#: View/Users/qr.ctp:42
+#: View/Users/qr2.ctp:45;51
+#: View/Warranties/backoffice_insert.ctp:55;56;57;58;66;67;68
+#: View/Warranties/shop_insert.ctp:53;54;55;56;64
+msgid "SELECT_ONE"
+msgstr ""
+
+#: View/Admins/backoffice_insert.ctp:54
+#: View/Agreements/backoffice_insert.ctp:47
+#: View/Categories/backoffice_insert.ctp:47
+#: View/FormFields/backoffice_insert.ctp:55
+#: View/Genres/backoffice_insert.ctp:46
+#: View/Groups/backoffice_insert.ctp:69
+#: View/Introducers/backoffice_insert.ctp:78
+#: View/Makers/backoffice_insert.ctp:53
+#: View/Merchants/backoffice_insert.ctp:78
+#: View/Merchants/group_insert.ctp:78
+#: View/Merchants/shop_insert.ctp:73
+#: View/Plans/backoffice_insert.ctp:76
+#: View/SalesPeople/backoffice_insert.ctp:46
+#: View/Shops/backoffice_insert.ctp:58
+#: View/Shops/group_insert.ctp:54
+#: View/SubCategories/backoffice_insert.ctp:48
+msgid "SAVE"
+msgstr ""
+
+#: View/Admins/backoffice_login.ctp:17
+#: View/GroupUsers/group_login.ctp:17
+#: View/Introducers/introducer_login.ctp:17
+#: View/Merchants/shop_login.ctp:17
+msgid "USER_NAME_PLACEHOLDER"
+msgstr ""
+
+#: View/Admins/backoffice_login.ctp:21
+#: View/GroupUsers/group_login.ctp:21
+#: View/Introducers/introducer_login.ctp:21
+#: View/Merchants/shop_login.ctp:21
+msgid "LOGIN"
+msgstr ""
+
+#: View/Admins/backoffice_login.ctp:25
+#: View/GroupUsers/group_login.ctp:25
+#: View/Introducers/introducer_login.ctp:25
+#: View/Merchants/shop_login.ctp:25
+msgid "FORGOT_PASSWORD_URL"
+msgstr ""
+
+#: View/Admins/backoffice_profile.ctp:11
+#: View/GroupUsers/group_profile.ctp:11
+#: View/Introducers/introducer_profile.ctp:11
+#: View/Merchants/shop_profile.ctp:11
+#: View/Shops/backoffice_view.ctp:20
+#: View/Shops/group_view.ctp:20
+msgid "ACCOUNT_INFORMATION"
+msgstr ""
+
+#: View/Admins/backoffice_profile.ctp:28
+#: View/GroupUsers/group_profile.ctp:28
+#: View/Introducers/introducer_profile.ctp:28
+#: View/Merchants/shop_profile.ctp:28
+msgid "PERSONAL_INFORMATION"
+msgstr ""
+
+#: View/Admins/backoffice_reset_password.ctp:4
+#: View/GroupUsers/group_reset_password.ctp:4
+#: View/Introducers/introducer_reset_password.ctp:4
+#: View/Merchants/shop_reset_password.ctp:4
+msgid "RESET_PASSWORD_DONE_SUCCESS"
+msgstr ""
+
+#: View/Admins/backoffice_reset_password.ctp:7
+msgid "ADMIN_LOGIN_URL"
+msgstr ""
+
+#: View/Admins/backoffice_reset_password.ctp:20
+#: View/GroupUsers/group_reset_password.ctp:20
+#: View/Introducers/introducer_reset_password.ctp:20
+#: View/Merchants/shop_reset_password.ctp:20
+msgid "RESET_PASSWORD_DESCRIPTION"
+msgstr ""
+
+#: View/Admins/backoffice_reset_password.ctp:27
+#: View/GroupUsers/group_reset_password.ctp:27
+#: View/Introducers/introducer_reset_password.ctp:27
+#: View/Merchants/shop_reset_password.ctp:27
+msgid "UPDATE_PASSWORD"
+msgstr ""
+
+#: View/Admins/backoffice_reset_password.ctp:31
+#: View/GroupUsers/group_reset_password.ctp:31
+#: View/Introducers/introducer_reset_password.ctp:31
+#: View/Merchants/shop_reset_password.ctp:31
+msgid "BACK_TO_LOGIN"
+msgstr ""
+
+#: View/Agreements/backoffice_index.ctp:4
+#: View/Agreements/backoffice_insert.ctp:4
+msgid "AGREEMENT_LIST"
+msgstr ""
+
+#: View/Agreements/backoffice_index.ctp:25
+msgid "AGREEMENT_ID"
+msgstr ""
+
+#: View/Agreements/backoffice_index.ctp:26
+#: View/Agreements/backoffice_insert.ctp:35
+msgid "AGREEMENT"
+msgstr ""
+
+#: View/Agreements/backoffice_index.ctp:27
+#: View/Introducers/backoffice_index.ctp:32
+#: View/SalesPeople/backoffice_index.ctp:28
+#: View/Warranties/backoffice_index.ctp:27
+#: View/Warranties/shop_index.ctp:27
+msgid "REGISTRATION_DATE"
+msgstr ""
+
+#: View/Agreements/backoffice_index.ctp:28
+msgid "CONTENT"
+msgstr ""
+
+#: View/Agreements/backoffice_index.ctp:42
+msgid "CONFIRM_INACTIVE_AGREEMENT_%s?"
+msgstr ""
+
+#: View/Agreements/backoffice_index.ctp:44
+msgid "CONFIRM_ACTIVE_AGREEMENT_%s?"
+msgstr ""
+
+#: View/Agreements/backoffice_index.ctp:50
+msgid "CONFIRM_DELETE_AGREEMENT_%s?"
+msgstr ""
+
+#: View/Agreements/backoffice_insert.ctp:36
+msgid "AGREEMENT_CONTENT"
+msgstr ""
+
+#: View/Agreements/backoffice_insert.ctp:37
+msgid "AGREEMENT_COMMENT"
+msgstr ""
+
+#: View/Categories/backoffice_csvupload.ctp:4
+#: View/Categories/backoffice_index.ctp:4
+#: View/Categories/backoffice_insert.ctp:4
+msgid "CATEGORY_LIST"
+msgstr ""
+
+#: View/Categories/backoffice_csvupload.ctp:6;35
+#: View/Categories/backoffice_index.ctp:6
+#: View/Categories/backoffice_insert.ctp:6
+#: View/Genres/backoffice_csvupload.ctp:6;35
+#: View/Genres/backoffice_index.ctp:6
+#: View/Genres/backoffice_insert.ctp:6
+#: View/Introducers/backoffice_csvupload.ctp:6;35
+#: View/Introducers/backoffice_index.ctp:6
+#: View/Introducers/backoffice_insert.ctp:6
+#: View/Makers/backoffice_csvupload.ctp:6;35
+#: View/Makers/backoffice_index.ctp:5
+#: View/Makers/backoffice_insert.ctp:6
+#: View/SalesPeople/backoffice_csvupload.ctp:6;35
+#: View/SalesPeople/backoffice_index.ctp:6
+#: View/SalesPeople/backoffice_insert.ctp:6
+#: View/SubCategories/backoffice_csvupload.ctp:6;35
+#: View/SubCategories/backoffice_index.ctp:6
+#: View/SubCategories/backoffice_insert.ctp:6
+msgid "UPLOAD_CSV"
+msgstr ""
+
+#: View/Categories/backoffice_csvupload.ctp:45
+#: View/Genres/backoffice_csvupload.ctp:45
+#: View/Introducers/backoffice_csvupload.ctp:45
+#: View/Makers/backoffice_csvupload.ctp:45
+#: View/SalesPeople/backoffice_csvupload.ctp:45
+#: View/SubCategories/backoffice_csvupload.ctp:45
+msgid "UPLOAD"
+msgstr ""
+
+#: View/Categories/backoffice_index.ctp:27
+msgid "CATEGORY_ID"
+msgstr ""
+
+#: View/Categories/backoffice_index.ctp:29
+#: View/Genres/backoffice_index.ctp:28
+#: View/Plans/backoffice_index.ctp:41
+#: View/SubCategories/backoffice_index.ctp:29
+msgid "SORT"
+msgstr ""
+
+#: View/Categories/backoffice_index.ctp:45
+msgid "CONFIRM_INACTIVE_CATEGORY_%s?"
+msgstr ""
+
+#: View/Categories/backoffice_index.ctp:47
+msgid "CONFIRM_ACTIVE_CATEGORY_%s?"
+msgstr ""
+
+#: View/Categories/backoffice_index.ctp:53
+msgid "CONFIRM_DELETE_CATEGORY_%s?"
+msgstr ""
+
+#: View/Categories/backoffice_insert.ctp:37
+msgid "CATEGORY_NAME"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:6;37
+msgid "USER_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:9
+msgid "GROUP_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:12;40
+msgid "WARRANTY_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:15;43;63
+msgid "PLAN_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:18
+msgid "GENRE_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:21;46
+msgid "ADMIN_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:24
+msgid "RULE_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:27
+msgid "SALES_PERSON_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:30
+msgid "INTRODUCER_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:33
+msgid "MAKER_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:52
+msgid "FORM_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:57
+msgid "SHOP_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/navbar/mainmenu.ctp:60
+msgid "MERCHANT_MANAGEMENT"
+msgstr ""
+
+#: View/Elements/users/search.ctp:29
+msgid "USER_SEARCH_BY_TIME"
+msgstr ""
+
+#: View/Elements/users/search.ctp:39
+msgid "THIS_MONTH"
+msgstr ""
+
+#: View/Elements/users/search.ctp:40
+msgid "LAST_MONTH"
+msgstr ""
+
+#: View/Elements/users/search.ctp:41
+msgid "ALL"
+msgstr ""
+
+#: View/Elements/users/search.ctp:67
+msgid "USER_SEARCH_BY_NEW_USER"
+msgstr ""
+
+#: View/Elements/users/search.ctp:76
+msgid "USER_SEARCH_BY_CONTACT_END_SOON"
+msgstr ""
+
+#: View/Elements/users/search.ctp:83
+msgid "USER_SEARCH_BY_PRODUCT"
+msgstr ""
+
+#: View/Elements/users/search.ctp:91
+msgid "SELECT_ONE_GENRE"
+msgstr ""
+
+#: View/Elements/users/search.ctp:99
+msgid "SELECT_ONE_CATEGORY"
+msgstr ""
+
+#: View/Elements/users/search.ctp:107
+msgid "SELECT_ONE_SUB_CATEGORY"
+msgstr ""
+
+#: View/Elements/users/search.ctp:116
+msgid "USER_SEARCH_BY_SHOP"
+msgstr ""
+
+#: View/Elements/users/search.ctp:124
+msgid "SELECT_ONE_GROUP"
+msgstr ""
+
+#: View/Elements/users/search.ctp:132
+msgid "SELECT_ONE_SHOP"
+msgstr ""
+
+#: View/Elements/users/search.ctp:140
+msgid "USER_SEARCH_BY_TEXT"
+msgstr ""
+
+#: View/Elements/users/search.ctp:150
+#: View/Shops/backoffice_index.ctp:37
+#: View/Shops/group_index.ctp:34
+msgid "SEARCH"
+msgstr ""
+
+#: View/FormFields/backoffice_index.ctp:4
+#: View/FormFields/backoffice_insert.ctp:4
+msgid "FORM_FIELD_LIST"
+msgstr ""
+
+#: View/FormFields/backoffice_index.ctp:25
+msgid "FORM_FIELD_ID"
+msgstr ""
+
+#: View/FormFields/backoffice_index.ctp:27
+#: View/FormFields/backoffice_insert.ctp:36
+msgid "LABEL"
+msgstr ""
+
+#: View/FormFields/backoffice_index.ctp:28
+#: View/FormFields/backoffice_insert.ctp:37
+#: View/Plans/shop_index.ctp:25
+#: View/Warranties/backoffice_index.ctp:31
+#: View/Warranties/shop_index.ctp:31
+msgid "TYPE"
+msgstr ""
+
+#: View/FormFields/backoffice_index.ctp:29
+#: View/FormFields/backoffice_insert.ctp:42
+msgid "REQUIRED"
+msgstr ""
+
+#: View/FormFields/backoffice_index.ctp:44
+msgid "CONFIRM_INACTIVE_FORM_FIELD_%s?"
+msgstr ""
+
+#: View/FormFields/backoffice_index.ctp:46
+msgid "CONFIRM_ACTIVE_FORM_FIELD_%s?"
+msgstr ""
+
+#: View/FormFields/backoffice_index.ctp:52
+msgid "CONFIRM_DELETE_FORM_FIELD_%s?"
+msgstr ""
+
+#: View/FormFields/backoffice_insert.ctp:36
+msgid "LABEL_PLACEHOLDER"
+msgstr ""
+
+#: View/FormFields/backoffice_insert.ctp:38
+msgid "FIELD_VALUES"
+msgstr ""
+
+#: View/Genres/backoffice_index.ctp:26
+msgid "GENRE_ID"
+msgstr ""
+
+#: View/Genres/backoffice_index.ctp:44
+msgid "CONFIRM_INACTIVE_GENRE_%s?"
+msgstr ""
+
+#: View/Genres/backoffice_index.ctp:46
+msgid "CONFIRM_ACTIVE_GENRE_%s?"
+msgstr ""
+
+#: View/Genres/backoffice_index.ctp:52
+msgid "CONFIRM_DELETE_GENRE_%s?"
+msgstr ""
+
+#: View/Genres/backoffice_insert.ctp:36
+msgid "GENRE_NAME"
+msgstr ""
+
+#: View/GroupUsers/group_edit_profile.ctp:38
+#: View/Introducers/backoffice_insert.ctp:45
+#: View/Introducers/introducer_edit_profile.ctp:38
+#: View/Merchants/backoffice_insert.ctp:45
+#: View/Merchants/group_insert.ctp:45
+#: View/Merchants/shop_edit_profile.ctp:38
+#: View/Merchants/shop_insert.ctp:44
+#: View/Shops/backoffice_insert.ctp:44
+#: View/Shops/group_insert.ctp:40
+#: View/Shops/shop_edit_profile.ctp:40
+msgid "ZIP_CODE_PLACEHOLDER"
+msgstr ""
+
+#: View/GroupUsers/group_edit_profile.ctp:40
+#: View/Introducers/backoffice_insert.ctp:47
+#: View/Introducers/introducer_edit_profile.ctp:40
+#: View/Merchants/backoffice_insert.ctp:47
+#: View/Merchants/group_insert.ctp:47
+#: View/Merchants/shop_edit_profile.ctp:40
+#: View/Merchants/shop_insert.ctp:46
+#: View/Shops/backoffice_insert.ctp:46
+#: View/Shops/group_insert.ctp:42
+#: View/Shops/shop_edit_profile.ctp:42
+msgid "STREET_ADDRESS_PLACEHOLDER"
+msgstr ""
+
+#: View/GroupUsers/group_edit_profile.ctp:47
+#: View/Introducers/backoffice_insert.ctp:54
+#: View/Introducers/introducer_edit_profile.ctp:47
+#: View/Merchants/backoffice_insert.ctp:54
+#: View/Merchants/group_insert.ctp:54
+#: View/Merchants/shop_edit_profile.ctp:47
+#: View/Merchants/shop_insert.ctp:53
+#: View/Plans/backoffice_insert.ctp:49
+#: View/Users/order.ctp:66
+#: View/Users/qr.ctp:50
+#: View/Users/qr2.ctp:65
+msgid "MONTH"
+msgstr ""
+
+#: View/GroupUsers/group_edit_profile.ctp:48
+#: View/Introducers/backoffice_insert.ctp:55
+#: View/Introducers/introducer_edit_profile.ctp:48
+#: View/Merchants/backoffice_insert.ctp:55
+#: View/Merchants/group_insert.ctp:55
+#: View/Merchants/shop_edit_profile.ctp:48
+#: View/Merchants/shop_insert.ctp:54
+#: View/Users/order.ctp:67
+#: View/Users/qr.ctp:51
+#: View/Users/qr2.ctp:66
+msgid "DAY"
+msgstr ""
+
+#: View/GroupUsers/group_edit_profile.ctp:49
+#: View/Introducers/backoffice_insert.ctp:56
+#: View/Introducers/introducer_edit_profile.ctp:49
+#: View/Merchants/backoffice_insert.ctp:56
+#: View/Merchants/group_insert.ctp:56
+#: View/Merchants/shop_edit_profile.ctp:49
+#: View/Merchants/shop_insert.ctp:55
+#: View/Users/order.ctp:68
+#: View/Users/qr.ctp:52
+#: View/Users/qr2.ctp:67
+msgid "YEAR"
+msgstr ""
+
+#: View/GroupUsers/group_index.ctp:4
+msgid "GROUP_USER_LIST"
+msgstr ""
+
+#: View/GroupUsers/group_index.ctp:24
+msgid "ID"
+msgstr ""
+
+#: View/GroupUsers/group_reset_password.ctp:7
+#: View/Merchants/shop_reset_password.ctp:7
+msgid "MERCHANT_LOGIN_URL"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:4
+#: View/Groups/backoffice_insert.ctp:4
+msgid "GROUP_LIST"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:25
+msgid "GROUP_ID"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:27
+#: View/Groups/backoffice_insert.ctp:43
+#: View/Shops/backoffice_index.ctp:58
+msgid "SALES_INCHARGE"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:28;45
+#: View/Merchants/backoffice_insert.ctp:35
+#: View/Merchants/group_insert.ctp:35
+#: View/Users/order_preview.ctp:81
+#: View/Users/qr.ctp:136
+#: View/Users/qr2.ctp:155
+#: View/Users/qr_preview.ctp:89
+#: View/Users/qr_preview2.ctp:89
+#: View/Warranties/backoffice_insert.ctp:67
+#: View/Warranties/backoffice_insert_preview.ctp:29
+#: View/Warranties/backoffice_view.ctp:87
+#: View/Warranties/shop_view.ctp:87
+msgid "SHOP"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:29
+msgid "GROUP_ACCOUNT"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:30
+msgid "SUPPORT_ACCOUNT"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:31
+msgid "INTRODUCER_ACCOUNT"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:70
+msgid "CONFIRM_INACTIVE_GROUP_%s?"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:72
+msgid "CONFIRM_ACTIVE_GROUP_%s?"
+msgstr ""
+
+#: View/Groups/backoffice_index.ctp:78
+msgid "CONFIRM_DELETE_GROUP_%s?"
+msgstr ""
+
+#: View/Groups/backoffice_insert.ctp:38
+msgid "IS_INTRODUCER"
+msgstr ""
+
+#: View/Groups/backoffice_insert.ctp:42
+#: View/Shops/backoffice_insert.ctp:39
+#: View/Shops/backoffice_view.ctp:47
+#: View/Users/order.ctp:114
+msgid "GROUP_NAME"
+msgstr ""
+
+#: View/Groups/backoffice_insert.ctp:42
+msgid "GROUP_NAME_PLACEHOLDER"
+msgstr ""
+
+#: View/Groups/backoffice_insert.ctp:44
+msgid "INTRODUCER"
+msgstr ""
+
+#: View/Groups/backoffice_insert.ctp:45
+msgid "INTRODUCER_ROYALITY"
+msgstr ""
+
+#: View/Groups/backoffice_insert.ctp:45
+msgid "INTRODUCER_ROYALITY_INSTRUCTION"
+msgstr ""
+
+#: View/Groups/backoffice_insert.ctp:49
+#: View/Plans/backoffice_insert.ctp:52
+#: View/Users/qr.ctp:148
+#: View/Users/qr2.ctp:167
+#: View/Users/qr_preview.ctp:61
+#: View/Users/qr_preview2.ctp:61
+#: View/Warranties/backoffice_view.ctp:75
+#: View/Warranties/shop_view.ctp:75
+msgid "WARRANTY_PERIOD"
+msgstr ""
+
+#: View/Groups/backoffice_insert.ctp:56
+msgid "WARRANTY_URL"
+msgstr ""
+
+#: View/Introducers/backoffice_index.ctp:26
+msgid "INTRODUCER_ID"
+msgstr ""
+
+#: View/Introducers/backoffice_index.ctp:49
+msgid "CONFIRM_INACTIVE_INTRODUCER_%s?"
+msgstr ""
+
+#: View/Introducers/backoffice_index.ctp:51
+msgid "CONFIRM_ACTIVE_INTRODUCER_%s?"
+msgstr ""
+
+#: View/Introducers/backoffice_index.ctp:57
+msgid "CONFIRM_DELETE_INTRODUCER_%s?"
+msgstr ""
+
+#: View/Introducers/backoffice_insert.ctp:37
+#: View/Merchants/backoffice_insert.ctp:37
+#: View/Merchants/group_insert.ctp:37
+#: View/Merchants/shop_insert.ctp:35
+msgid "MERCHANTNAME_PLACEHOLDER"
+msgstr ""
+
+#: View/Introducers/introducer_index.ctp:26
+#: View/Merchants/shop_index.ctp:27
+msgid "ADMINNAME"
+msgstr ""
+
+#: View/Introducers/introducer_reset_password.ctp:7
+msgid "INTRODUCER_LOGIN_URL"
+msgstr ""
+
+#: View/Layouts/default.ctp:61
+msgid "ID_:_%s_[%s]"
+msgstr ""
+
+#: View/Layouts/default.ctp:64;66;68;70;72
+msgid "LOGOUT"
+msgstr ""
+
+#: View/Makers/backoffice_csvupload.ctp:4
+#: View/Makers/backoffice_index.ctp:4
+#: View/Makers/backoffice_insert.ctp:4
+msgid "MAKER_LIST"
+msgstr ""
+
+#: View/Makers/backoffice_index.ctp:25
+msgid "MAKER_ID"
+msgstr ""
+
+#: View/Makers/backoffice_index.ctp:27
+#: View/Makers/backoffice_insert.ctp:40
+msgid "MOBILE_SUPPORT"
+msgstr ""
+
+#: View/Makers/backoffice_index.ctp:44
+msgid "CONFIRM_INACTIVE_MAKER_%s?"
+msgstr ""
+
+#: View/Makers/backoffice_index.ctp:46
+msgid "CONFIRM_ACTIVE_MAKER_%s?"
+msgstr ""
+
+#: View/Makers/backoffice_index.ctp:52
+msgid "CONFIRM_DELETE_MAKER_%s?"
+msgstr ""
+
+#: View/Makers/backoffice_insert.ctp:36
+msgid "MAKER_NAME"
+msgstr ""
+
+#: View/Merchants/backoffice_index.ctp:4
+#: View/Merchants/backoffice_insert.ctp:4
+#: View/Merchants/group_index.ctp:4
+#: View/Merchants/group_insert.ctp:4
+msgid "MERCHANT_LIST"
+msgstr ""
+
+#: View/Merchants/backoffice_index.ctp:25
+#: View/Merchants/group_index.ctp:25
+#: View/Payments/backoffice_index.ctp:17
+msgid "MERCHANT_ID"
+msgstr ""
+
+#: View/Merchants/backoffice_index.ctp:26
+#: View/Merchants/group_index.ctp:26
+#: View/Merchants/shop_index.ctp:26
+#: View/Shops/backoffice_index.ctp:56
+#: View/Shops/backoffice_insert.ctp:40
+#: View/Shops/backoffice_view.ctp:51
+#: View/Shops/group_insert.ctp:36
+#: View/Shops/group_view.ctp:47
+#: View/Shops/shop_edit_profile.ctp:28
+#: View/Shops/shop_profile.ctp:10
+#: View/Users/order.ctp:118
+msgid "SHOP_NAME"
+msgstr ""
+
+#: View/Merchants/backoffice_index.ctp:53
+#: View/Merchants/group_index.ctp:53
+msgid "CONFIRM_INACTIVE_MERCHANT_%s?"
+msgstr ""
+
+#: View/Merchants/backoffice_index.ctp:55
+#: View/Merchants/group_index.ctp:55
+msgid "CONFIRM_ACTIVE_MERCHANT_%s?"
+msgstr ""
+
+#: View/Merchants/backoffice_index.ctp:61
+#: View/Merchants/group_index.ctp:61
+msgid "CONFIRM_DELETE_MERCHANT_%s?"
+msgstr ""
+
+#: View/Merchants/shop_signup_preview.ctp:32
+msgid "STREET_ADDESS"
+msgstr ""
+
+#: View/Merchants/shop_signup_preview.ctp:86
+#: View/Users/order_preview.ctp:218
+#: View/Users/qr_preview.ctp:216
+#: View/Users/qr_preview2.ctp:225
+#: View/Warranties/backoffice_insert_preview.ctp:128
+#: View/Warranties/shop_insert_preview.ctp:109
+msgid "CONFIRM"
+msgstr ""
+
+#: View/Merchants/shop_signup_preview.ctp:90
+msgid "CANCEL"
+msgstr ""
+
+#: View/Payments/backoffice_index.ctp:9
+msgid "METHOD"
+msgstr ""
+
+#: View/Payments/backoffice_index.ctp:25
+msgid "SERVICE_ID"
+msgstr ""
+
+#: View/Payments/backoffice_index.ctp:33
+msgid "CUSTOMER_CODE"
+msgstr ""
+
+#: View/Payments/backoffice_index.ctp:234
+msgid "Send"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:5
+#: View/Plans/backoffice_insert.ctp:5
+msgid "OPTION_PLAN_LIST"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:8
+#: View/Plans/backoffice_insert.ctp:8
+#: View/Plans/shop_index.ctp:4
+msgid "PLAN_LIST"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:30
+#: View/Plans/group_index.ctp:24
+msgid "PLAN_ID"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:32
+#: View/Plans/group_index.ctp:26
+msgid "OPTION_PLAN_NAME"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:34
+#: View/Plans/backoffice_insert.ctp:40
+#: View/Plans/group_index.ctp:28
+msgid "PLAN_NAME"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:35
+msgid "GROUPS"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:37
+#: View/Plans/backoffice_insert.ctp:44
+#: View/Plans/group_index.ctp:30
+msgid "WARRANTY_TYPE"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:38
+#: View/Plans/backoffice_insert.ctp:48;50;51
+#: View/Plans/group_index.ctp:31
+msgid "WARRANTY_AMOUNT"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:39
+#: View/Plans/group_index.ctp:32
+#: View/Plans/shop_index.ctp:28
+#: View/Users/qr.ctp:152
+#: View/Users/qr2.ctp:171
+#: View/Users/qr_preview.ctp:65
+#: View/Users/qr_preview2.ctp:65
+msgid "ROYALITY"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:40
+#: View/Plans/group_index.ctp:33
+#: View/Plans/shop_index.ctp:27
+msgid "PERIOD"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:83
+msgid "CONFIRM_INACTIVE_PLAN_%s?"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:85
+msgid "CONFIRM_ACTIVE_PLAN_%s?"
+msgstr ""
+
+#: View/Plans/backoffice_index.ctp:95
+msgid "CONFIRM_DELETE_PLAN_%s?"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:48
+msgid "PER_MONTH"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:49
+msgid "NO_OF_FREE_WARRANTY"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:50
+msgid "WARRANTY_AMOUNT_INSTRUCTION"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:51
+msgid "WARRANTY_AMOUNT_PERCENTAGE_INSTRUCTION"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:53
+msgid "PLAN_ROYALITY"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:53
+msgid "PLAN_ROYALITY_INSTRUCTION"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:54
+msgid "PLAN_COMMENT"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:59
+msgid "WARRANTY_AGREEMENT"
+msgstr ""
+
+#: View/Plans/backoffice_insert.ctp:65
+#: View/Users/order_preview.ctp:77
+#: View/Users/qr.ctp:132
+#: View/Users/qr2.ctp:151
+#: View/Users/qr_preview.ctp:85
+#: View/Users/qr_preview2.ctp:85
+#: View/Warranties/backoffice_insert.ctp:66
+#: View/Warranties/backoffice_insert_preview.ctp:23
+#: View/Warranties/backoffice_view.ctp:91
+#: View/Warranties/shop_view.ctp:91
+msgid "GROUP"
+msgstr ""
+
+#: View/Plans/shop_index.ctp:24
+#: View/Users/order.ctp:135
+#: View/Users/order_preview.ctp:55
+#: View/Users/qr.ctp:126
+#: View/Users/qr2.ctp:145
+#: View/Users/qr_preview.ctp:55
+#: View/Users/qr_preview2.ctp:55
+#: View/Warranties/backoffice_index.ctp:28
+#: View/Warranties/backoffice_insert.ctp:68
+#: View/Warranties/backoffice_insert_preview.ctp:36
+#: View/Warranties/backoffice_view.ctp:71
+#: View/Warranties/shop_index.ctp:28
+#: View/Warranties/shop_insert.ctp:64
+#: View/Warranties/shop_insert_preview.ctp:23
+#: View/Warranties/shop_view.ctp:71
+msgid "PLAN"
+msgstr ""
+
+#: View/Plans/shop_index.ctp:26
+msgid "MONEY"
+msgstr ""
+
+#: View/Plans/shop_index.ctp:29;58
+msgid "URL"
+msgstr ""
+
+#: View/SalesPeople/backoffice_index.ctp:26
+msgid "SALES_PERSON_ID"
+msgstr ""
+
+#: View/SalesPeople/backoffice_index.ctp:41
+msgid "CONFIRM_INACTIVE_SALES_PERSON_%s?"
+msgstr ""
+
+#: View/SalesPeople/backoffice_index.ctp:43
+msgid "CONFIRM_ACTIVE_SALES_PERSON_%s?"
+msgstr ""
+
+#: View/SalesPeople/backoffice_index.ctp:49
+msgid "CONFIRM_DELETE_SALES_PERSON_%s?"
+msgstr ""
+
+#: View/SalesPeople/backoffice_insert.ctp:36
+msgid "SALES_PERSON_NAME"
+msgstr ""
+
+#: View/GroupForms/shop_index.ctp:8
+#: View/GroupForms/shop_index2.ctp:8
+msgid "FIELDS_LIST"
+msgstr ""
+
+#: View/GroupForms/shop_index.ctp:42
+#: View/GroupForms/shop_index2.ctp:42
+msgid "SAVE_ORDER"
+msgstr ""
+
+#: View/GroupForms/shop_index.ctp:55
+#: View/GroupForms/shop_index2.ctp:55
+msgid "YOU_DID_NOT_SAVE_FIELDS_ORDER"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:5
+#: View/Shops/backoffice_insert.ctp:7
+#: View/Shops/backoffice_view.ctp:4
+#: View/Shops/group_index.ctp:4
+#: View/Shops/group_insert.ctp:4
+#: View/Shops/group_view.ctp:4
+msgid "SHOP_LIST"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:35
+msgid "CHOOSE_SHOP_TO_DISPLAY_SHOPS"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:36
+#: View/Shops/group_index.ctp:33
+msgid "SEARCH_BY_NAME_KANA"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:55
+#: View/Shops/group_index.ctp:52
+msgid "SHOP_ID"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:57
+#: View/Shops/backoffice_insert.ctp:41
+#: View/Shops/backoffice_view.ctp:55
+#: View/Shops/group_insert.ctp:37
+#: View/Shops/group_view.ctp:51
+msgid "SHOP_NAME_KANA"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:60
+#: View/Users/order.ctp:126
+#: View/Users/order_preview.ctp:89
+#: View/Users/qr.ctp:144
+#: View/Users/qr2.ctp:163
+#: View/Users/qr_preview.ctp:97
+#: View/Users/qr_preview2.ctp:97
+#: View/Warranties/backoffice_view.ctp:99
+#: View/Warranties/shop_view.ctp:99
+msgid "TELEPHONE"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:61;78
+#: View/Shops/group_index.ctp:58;75
+msgid "MERCHANT"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:82
+#: View/Shops/group_index.ctp:79
+msgid "CONFIRM_INACTIVE_SHOP_%s?"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:84
+#: View/Shops/group_index.ctp:81
+msgid "CONFIRM_ACTIVE_SHOP_%s?"
+msgstr ""
+
+#: View/Shops/backoffice_index.ctp:90
+#: View/Shops/group_index.ctp:87
+msgid "CONFIRM_DELETE_SHOP_%s?"
+msgstr ""
+
+#: View/Shops/backoffice_insert.ctp:40
+#: View/Shops/group_insert.ctp:36
+msgid "SHOP_NAME_PLACEHOLDER"
+msgstr ""
+
+#: View/Shops/backoffice_insert.ctp:41
+#: View/Shops/group_insert.ctp:37
+msgid "SHOP_NAME_KANA_PLACEHOLDER"
+msgstr ""
+
+#: View/Shops/backoffice_insert.ctp:42
+#: View/Shops/backoffice_view.ctp:26
+#: View/Shops/group_insert.ctp:38
+#: View/Shops/group_view.ctp:26
+msgid "SHOP_INCHARGE"
+msgstr ""
+
+#: View/Shops/backoffice_insert.ctp:42
+#: View/Shops/group_insert.ctp:38
+msgid "SHOP_INCHARGE_PLACEHOLDER"
+msgstr ""
+
+#: View/Shops/backoffice_insert.ctp:48
+#: View/Shops/group_insert.ctp:44
+msgid "SHOP_COMMENT"
+msgstr ""
+
+#: View/Shops/backoffice_view.ctp:41
+#: View/Shops/group_view.ctp:41
+#: View/Users/order_preview.ctp:72
+#: View/Users/qr_preview.ctp:80
+#: View/Users/qr_preview2.ctp:80
+#: View/Warranties/backoffice_view.ctp:82
+#: View/Warranties/shop_view.ctp:82
+msgid "SHOP_INFORMATION"
+msgstr ""
+
+#: View/Shops/backoffice_view.ctp:75
+#: View/Shops/group_view.ctp:71
+msgid "COMMENT"
+msgstr ""
+
+#: View/Shops/group_index.ctp:55
+msgid "INCHARGE"
+msgstr ""
+
+#: View/SubCategories/backoffice_index.ctp:27
+msgid "SUB_CATEGORY_ID"
+msgstr ""
+
+#: View/SubCategories/backoffice_index.ctp:45
+msgid "CONFIRM_INACTIVE_SUB_CATEGORY_%s?"
+msgstr ""
+
+#: View/SubCategories/backoffice_index.ctp:47
+msgid "CONFIRM_ACTIVE_SUB_CATEGORY_%s?"
+msgstr ""
+
+#: View/SubCategories/backoffice_index.ctp:53
+msgid "CONFIRM_DELETE_SUB_CATEGORY_%s?"
+msgstr ""
+
+#: View/SubCategories/backoffice_insert.ctp:38
+msgid "SUB_CATEGORY_NAME"
+msgstr ""
+
+#: View/Users/backoffice_index.ctp:17
+#: View/Users/shop_index.ctp:17
+msgid "USER_ID"
+msgstr ""
+
+#: View/Users/order.ctp:99
+#: View/Warranties/backoffice_insert.ctp:55
+#: View/Warranties/backoffice_insert_preview.ctp:50
+#: View/Warranties/backoffice_view.ctp:36
+#: View/Warranties/shop_insert.ctp:53
+#: View/Warranties/shop_insert_preview.ctp:37
+#: View/Warranties/shop_view.ctp:36
+msgid "GENRE"
+msgstr ""
+
+#: View/Users/order.ctp:100
+#: View/Users/order_preview.ctp:24
+#: View/Users/qr.ctp:87
+#: View/Users/qr2.ctp:106
+#: View/Users/qr_preview.ctp:24
+#: View/Users/qr_preview2.ctp:24
+#: View/Warranties/backoffice_insert.ctp:56
+#: View/Warranties/backoffice_insert_preview.ctp:56
+#: View/Warranties/backoffice_view.ctp:40
+#: View/Warranties/shop_insert.ctp:54
+#: View/Warranties/shop_insert_preview.ctp:43
+#: View/Warranties/shop_view.ctp:40
+msgid "CATEGORY"
+msgstr ""
+
+#: View/Users/order.ctp:101
+#: View/Users/order_preview.ctp:30
+#: View/Users/qr.ctp:93
+#: View/Users/qr2.ctp:112
+#: View/Users/qr_preview.ctp:30
+#: View/Users/qr_preview2.ctp:30
+#: View/Warranties/backoffice_insert.ctp:57
+#: View/Warranties/backoffice_insert_preview.ctp:62
+#: View/Warranties/backoffice_view.ctp:44
+#: View/Warranties/shop_insert.ctp:55
+#: View/Warranties/shop_insert_preview.ctp:49
+#: View/Warranties/shop_view.ctp:44
+msgid "SUB_CATEGORY"
+msgstr ""
+
+#: View/Users/order.ctp:102
+#: View/Users/order_preview.ctp:12
+#: View/Users/qr.ctp:99
+#: View/Users/qr2.ctp:118
+#: View/Users/qr_preview.ctp:12
+#: View/Users/qr_preview2.ctp:12
+#: View/Warranties/backoffice_insert.ctp:58
+#: View/Warranties/backoffice_insert_preview.ctp:68
+#: View/Warranties/backoffice_view.ctp:32
+#: View/Warranties/shop_insert.ctp:56
+#: View/Warranties/shop_insert_preview.ctp:55
+#: View/Warranties/shop_view.ctp:32
+msgid "MAKER"
+msgstr ""
+
+#: View/Users/order.ctp:103
+#: View/Users/order_preview.ctp:36
+#: View/Users/qr.ctp:105
+#: View/Users/qr2.ctp:124
+#: View/Users/qr_preview.ctp:36
+#: View/Users/qr_preview2.ctp:36
+#: View/Warranties/backoffice_insert.ctp:59
+#: View/Warranties/backoffice_insert_preview.ctp:74
+#: View/Warranties/backoffice_view.ctp:48
+#: View/Warranties/shop_insert.ctp:57
+#: View/Warranties/shop_insert_preview.ctp:61
+#: View/Warranties/shop_view.ctp:48
+msgid "MODEL_NUMBER"
+msgstr ""
+
+#: View/Users/order.ctp:103
+#: View/Warranties/backoffice_insert.ctp:59
+#: View/Warranties/shop_insert.ctp:57
+msgid "MODEL_NUMBER_PLACEHOLDER"
+msgstr ""
+
+#: View/Users/order.ctp:104
+#: View/Users/order_preview.ctp:40
+#: View/Users/qr.ctp:109
+#: View/Users/qr2.ctp:128
+#: View/Users/qr_preview.ctp:40
+#: View/Users/qr_preview2.ctp:40
+#: View/Warranties/backoffice_insert.ctp:60
+#: View/Warranties/backoffice_insert_preview.ctp:78
+#: View/Warranties/backoffice_view.ctp:52
+#: View/Warranties/shop_insert.ctp:58
+#: View/Warranties/shop_insert_preview.ctp:65
+#: View/Warranties/shop_view.ctp:52
+msgid "SERIAL_NUMBER"
+msgstr ""
+
+#: View/Users/order.ctp:104
+#: View/Warranties/backoffice_insert.ctp:60
+#: View/Warranties/shop_insert.ctp:58
+msgid "SERIAL_NUMBER_PLACEHOLDER"
+msgstr ""
+
+#: View/Users/order.ctp:105
+#: View/Users/order_preview.ctp:44
+#: View/Users/qr.ctp:113
+#: View/Users/qr2.ctp:132
+#: View/Users/qr_preview.ctp:44
+#: View/Users/qr_preview2.ctp:44
+#: View/Warranties/backoffice_insert.ctp:61
+#: View/Warranties/backoffice_insert_preview.ctp:82
+#: View/Warranties/backoffice_view.ctp:56
+#: View/Warranties/shop_insert.ctp:59
+#: View/Warranties/shop_insert_preview.ctp:69
+#: View/Warranties/shop_view.ctp:56
+msgid "IME_NUMBER"
+msgstr ""
+
+#: View/Users/order.ctp:105
+#: View/Warranties/backoffice_insert.ctp:61
+#: View/Warranties/shop_insert.ctp:59
+msgid "IME_NUMBER_PLACEHOLDER"
+msgstr ""
+
+#: View/Users/order.ctp:108
+#: View/Users/qr.ctp:120
+#: View/Users/qr2.ctp:139
+msgid "YOUR_REGISTRATION_SUCCESS"
+msgstr ""
+
+#: View/Users/order.ctp:136
+#: View/Users/order_preview.ctp:61
+#: View/Users/qr.ctp:156
+#: View/Users/qr2.ctp:175
+#: View/Users/qr_preview.ctp:69
+#: View/Users/qr_preview2.ctp:69
+#: View/Warranties/backoffice_index.ctp:30
+#: View/Warranties/backoffice_insert.ctp:69
+#: View/Warranties/backoffice_insert_preview.ctp:42
+#: View/Warranties/shop_index.ctp:30
+#: View/Warranties/shop_insert.ctp:65
+#: View/Warranties/shop_insert_preview.ctp:29
+msgid "SALES_AMOUNT"
+msgstr ""
+
+#: View/Users/order.ctp:136
+#: View/Warranties/backoffice_insert.ctp:69
+#: View/Warranties/shop_insert.ctp:65
+msgid "SALES_AMOUNT_PLACEHOLDER"
+msgstr ""
+
+#: View/Users/order.ctp:137
+#: View/Users/order_preview.ctp:65
+#: View/Users/qr.ctp:160
+#: View/Users/qr2.ctp:179
+#: View/Users/qr_preview.ctp:73
+#: View/Users/qr_preview2.ctp:73
+#: View/Warranties/backoffice_insert.ctp:70
+#: View/Warranties/backoffice_insert_preview.ctp:46
+#: View/Warranties/shop_insert.ctp:66
+#: View/Warranties/shop_insert_preview.ctp:33
+msgid "WARRANTY_COMMENT"
+msgstr ""
+
+#: View/Users/order.ctp:145
+#: View/Users/qr.ctp:172
+#: View/Users/qr2.ctp:191
+#: View/Warranties/backoffice_insert.ctp:81
+#: View/Warranties/shop_insert.ctp:73
+msgid "NEXT"
+msgstr ""
+
+#: View/Users/order_preview.ctp:7
+#: View/Users/qr_preview.ctp:7
+#: View/Users/qr_preview2.ctp:7
+#: View/Warranties/backoffice_view.ctp:27
+#: View/Warranties/shop_view.ctp:27
+msgid "MERCHANDISE_INFORMATION (PRODUCT_INFORMATION)"
+msgstr ""
+
+#: View/Users/order_preview.ctp:18
+#: View/Users/qr.ctp:81
+#: View/Users/qr2.ctp:100
+#: View/Users/qr_preview.ctp:18
+#: View/Users/qr_preview2.ctp:18
+msgid "CLASSIFICATION"
+msgstr ""
+
+#: View/Users/order_preview.ctp:50
+#: View/Users/qr_preview.ctp:50
+#: View/Users/qr_preview2.ctp:50
+#: View/Warranties/backoffice_view.ctp:66
+#: View/Warranties/shop_view.ctp:66
+msgid "WARRANTY_INFORMATION (WARRANTY_INFORMATION)"
+msgstr ""
+
+#: View/Users/order_preview.ctp:96
+#: View/Users/qr_preview.ctp:104
+#: View/Users/qr_preview2.ctp:104
+msgid "USER_SIGNUP_INFORMATION"
+msgstr ""
+
+#: View/Users/shop_index.ctp:19
+msgid "USERGROUP"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:4
+#: View/Warranties/backoffice_insert.ctp:8
+#: View/Warranties/backoffice_insert_preview.ctp:4
+#: View/Warranties/backoffice_view.ctp:4
+#: View/Warranties/shop_index.ctp:4
+#: View/Warranties/shop_insert.ctp:8
+#: View/Warranties/shop_insert_preview.ctp:4
+#: View/Warranties/shop_view.ctp:4
+msgid "WARRANTY_LIST"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:25
+#: View/Warranties/shop_index.ctp:25
+msgid "WARRANTY_ID"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:26
+#: View/Warranties/shop_index.ctp:26
+msgid "WARRANTY_NUMBER"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:29
+#: View/Warranties/shop_index.ctp:29
+msgid "IME"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:32
+#: View/Warranties/shop_index.ctp:32
+msgid "PAYMENT_AMOUNT"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:33
+#: View/Warranties/shop_index.ctp:33
+msgid "QR_LINK"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:54
+#: View/Warranties/shop_index.ctp:54
+msgid "FORM"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:58
+#: View/Warranties/shop_index.ctp:58
+msgid "CONFIRM_INACTIVE_WARRANTY_%s?"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:60
+#: View/Warranties/shop_index.ctp:60
+msgid "CONFIRM_ACTIVE_WARRANTY_%s?"
+msgstr ""
+
+#: View/Warranties/backoffice_index.ctp:66
+#: View/Warranties/shop_index.ctp:66
+msgid "CONFIRM_DELETE_WARRANTY_%s?"
+msgstr ""
+
+#: View/Warranties/backoffice_insert.ctp:38
+#: View/Warranties/backoffice_insert_preview.ctp:19
+#: View/Warranties/shop_insert.ctp:38
+#: View/Warranties/shop_insert_preview.ctp:19
+msgid "APPLICATION_DATE"
+msgstr ""
+
+#: View/Warranties/backoffice_view.ctp:16
+#: View/Warranties/shop_view.ctp:16
+msgid "MARTEX_WARRANTY_MANAGING"
+msgstr ""
+
+#: View/Warranties/backoffice_view.ctp:17
+#: View/Warranties/shop_view.ctp:17
+msgid "MARTEX_WARRANTY_MANAGING_MESSAGE"
+msgstr ""
+
+#: View/Warranties/backoffice_view.ctp:18
+#: View/Warranties/shop_view.ctp:18
+msgid "PLEASE_NOTE_QR_DESTINATION_URL"
+msgstr ""
+
+#: View/Warranties/backoffice_view.ctp:60
+#: View/Warranties/shop_view.ctp:60
+msgid "SELLING_PRICE"
+msgstr ""
+
+#: View/Warranties/backoffice_view.ctp:108
+#: View/Warranties/shop_view.ctp:108
+msgid "ABOUT_HANDLING_PERSONAL_INFORMATION"
+msgstr ""
+
+#: View/Warranties/backoffice_view.ctp:109
+#: View/Warranties/shop_view.ctp:109
+msgid "ABOUT_HANDLING_PERSONAL_INSTRUCTIONS"
+msgstr ""
+
+#: Model/Admin.php:validation for field username
+#: Model/FormField.php:validation for field name
+#: Model/GroupUser.php:validation for field username
+#: Model/Introducer.php:validation for field username
+#: Model/Merchant.php:validation for field username
+#: Model/User.php:validation for field username
+msgid "PUT_NON_SPACE_CHARACTER"
+msgstr ""
+
+#: Model/Admin.php:validation for field username
+#: Model/GroupUser.php:validation for field username
+#: Model/Introducer.php:validation for field username
+#: Model/Merchant.php:validation for field username
+#: Model/User.php:validation for field username
+msgid "ALREADY_USED_USERNAME"
+msgstr ""
+
+#: Model/Admin.php:validation for field currentPassword
+#: Model/GroupUser.php:validation for field currentPassword
+#: Model/Introducer.php:validation for field currentPassword
+#: Model/Merchant.php:validation for field currentPassword
+#: Model/User.php:validation for field currentPassword
+msgid "CURRENT_PASSWORD_REQUIRED"
+msgstr ""
+
+#: Model/Admin.php:validation for field password
+#: Model/GroupUser.php:validation for field password
+#: Model/Introducer.php:validation for field password
+#: Model/Merchant.php:validation for field password
+#: Model/User.php:validation for field password
+msgid "PUT_NON_SPACE_ASCII_CHARACTER"
+msgstr ""
+
+#: Model/Admin.php:validation for field passwordVerify
+#: Model/GroupUser.php:validation for field passwordVerify
+#: Model/Introducer.php:validation for field passwordVerify
+#: Model/Merchant.php:validation for field passwordVerify
+#: Model/User.php:validation for field passwordVerify
+msgid "PASSWORD_DOES_NOT_CONFIRM"
+msgstr ""
+
+#: Model/Admin.php:validation for field email
+#: Model/GroupUser.php:validation for field email
+#: Model/Introducer.php:validation for field email
+#: Model/Merchant.php:validation for field email
+#: Model/Shop.php:validation for field email
+#: Model/User.php:validation for field email
+msgid "INVALID_EMAIL_ADDRESS"
+msgstr ""
+
+#: Model/Admin.php:validation for field name
+msgid "NAME_REQUIRED"
+msgstr ""
+
+#: Model/Admin.php:validation for field role_id
+msgid "ROLE_REQUIRED"
+msgstr ""
+
+#: Model/Agreement.php:validation for field name
+msgid "AGREEMENT_NAME_REQUIRED"
+msgstr ""
+
+#: Model/Category.php:validation for field name
+msgid "CATEGORY_NAME_REQUIRED"
+msgstr ""
+
+#: Model/FormField.php:validation for field name
+msgid "ALREADY_USED_FIELD_NAME"
+msgstr ""
+
+#: Model/FormField.php:validation for field label
+msgid "FORM_FIELD_LABEL_REQUIRED"
+msgstr ""
+
+#: Model/FormField.php:validation for field type
+msgid "TYPE_REQUIRED"
+msgstr ""
+
+#: Model/FormField.php:validation for field options
+msgid "FIELD_VALUES_REQUIRED"
+msgstr ""
+
+#: Model/Genre.php:validation for field name
+msgid "GENRE_NAME_REQUIRED"
+msgstr ""
+
+#: Model/Group.php:validation for field name
+msgid "GROUP_NAME_REQUIRED"
+msgstr ""
+
+#: Model/Group.php:validation for field sales_person_id
+msgid "SALES_INCHARGE_REQUIRED"
+msgstr ""
+
+#: Model/Group.php:validation for field royality
+msgid "INTRODUCER_ROYALITY_REQUIRED"
+msgstr ""
+
+#: Model/Group.php:validation for field royality
+#: Model/Plan.php:validation for field royality
+msgid "VALID_ROYALITY_REQUIRED"
+msgstr ""
+
+#: Model/GroupUser.php:validation for field name
+msgid "GRUOP_USER_NAME_REQUIRED"
+msgstr ""
+
+#: Model/GroupUser.php:validation for field zipcode
+#: Model/Introducer.php:validation for field zipcode
+#: Model/Merchant.php:validation for field zipcode
+#: Model/Shop.php:validation for field zipcode
+#: Model/User.php:validation for field zipcode
+msgid "ZIP_CODE_REQUIRED"
+msgstr ""
+
+#: Model/GroupUser.php:validation for field state
+#: Model/Introducer.php:validation for field state
+#: Model/Merchant.php:validation for field state
+#: Model/Shop.php:validation for field state
+#: Model/User.php:validation for field state
+msgid "STATE_REQUIRED"
+msgstr ""
+
+#: Model/GroupUser.php:validation for field street_address
+#: Model/Introducer.php:validation for field street_address
+#: Model/Merchant.php:validation for field street_address
+#: Model/Shop.php:validation for field street_address
+#: Model/User.php:validation for field street_address
+msgid "STATE_ADDRESS_REQUIRED"
+msgstr ""
+
+#: Model/GroupUser.php:validation for field phone
+#: Model/Introducer.php:validation for field phone
+#: Model/Merchant.php:validation for field phone
+#: Model/Shop.php:validation for field phone
+#: Model/User.php:validation for field phone
+msgid "TELEPHONE_NUMBER_REQUIRED"
+msgstr ""
+
+#: Model/GroupUser.php:validation for field group_id
+#: Model/Warranty.php:validation for field group_id
+msgid "GROUP_REQUIRED"
+msgstr ""
+
+#: Model/GroupUser.php:validation for field role_id
+msgid "GRUOP_USER_ROLE_REQUIRED"
+msgstr ""
+
+#: Model/Introducer.php:validation for field name
+msgid "INTRODUCER_NAME_REQUIRED"
+msgstr ""
+
+#: Model/Introducer.php:validation for field role_id
+msgid "INTRODUCER_ROLE_REQUIRED"
+msgstr ""
+
+#: Model/Maker.php:validation for field name
+msgid "MAKER_NAME_REQUIRED"
+msgstr ""
+
+#: Model/Merchant.php:validation for field name
+msgid "MERCHANT_NAME_REQUIRED"
+msgstr ""
+
+#: Model/Merchant.php:validation for field shop_id
+msgid "DEALER_REQUIRED"
+msgstr ""
+
+#: Model/Merchant.php:validation for field role_id
+msgid "MERCHANT_ROLE_REQUIRED"
+msgstr ""
+
+#: Model/Plan.php:validation for field name
+msgid "PLAN_NAME_REQUIRED"
+msgstr ""
+
+#: Model/Plan.php:validation for field warranty_type
+msgid "WARRANTY_TYPE_REQUIRED"
+msgstr ""
+
+#: Model/Plan.php:validation for field warranty_amount
+msgid "WARRANTY_AMOUNT_REQUIRED"
+msgstr ""
+
+#: Model/Plan.php:validation for field monthly_credit_type
+msgid "SELECTION_OF_MONTHLY_CREDIT_REQUIRED"
+msgstr ""
+
+#: Model/Plan.php:validation for field royality
+msgid "ROYALITY_REQUIRED"
+msgstr ""
+
+#: Model/Plan.php:validation for field warranty_period
+msgid "WARRANTY_PERIOD_REQUIRED"
+msgstr ""
+
+#: Model/Plan.php:validation for field agreement_id
+msgid "WARRANTY_AGREEMENT_REQUIRED"
+msgstr ""
+
+#: Model/Plan.php:validation for field Group
+msgid "SELECT_AT_LEAST_ONE_GROUP"
+msgstr ""
+
+#: Model/SalesPerson.php:validation for field name
+msgid "SALES_PERSON_NAME_REQUIRED"
+msgstr ""
+
+#: Model/Shop.php:validation for field group_id;validation for field name
+msgid "SHOP_NAME_REQUIRED"
+msgstr ""
+
+#: Model/SubCategory.php:validation for field name
+msgid "SUB_CATEGORY_NAME_REQUIRED"
+msgstr ""
+
+#: Model/User.php:validation for field name;validation for field name_kana
+msgid "USER_NAME_REQUIRED"
+msgstr ""
+
+#: Model/User.php:validation for field birthdate
+msgid "BIRTHDAY_REQUIRED"
+msgstr ""
+
+#: Model/User.php:validation for field sex
+msgid "GENDER_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field plan_id
+msgid "PLAN_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field shop_id
+msgid "SHOP_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field sales_amount
+msgid "SALES_AMOUNT_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field sales_amount
+msgid "VALID_SALES_AMOUNT_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field genre_id
+msgid "GENRE_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field category_id
+msgid "CATEGORY_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field sub_category_id
+msgid "SUB_CATEGORY_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field maker_id
+msgid "MAKER_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field model_no
+msgid "MODEL_NUMBER_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field serial_no
+msgid "SERIAL_NUMBER_REQUIRED"
+msgstr ""
+
+#: Model/Warranty.php:validation for field ime_no
+msgid "IME_NUMBER_REQUIRED"
+msgstr ""
+
